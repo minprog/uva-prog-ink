@@ -33,6 +33,8 @@ telefoon 525 5235
 
 Dit vak bestaat uit videocolleges, 7 werkcolleges, 7 computerpractica en één tentamen. Om de leerdoelen te kunnen halen is het bovenal belangrijk om heel veel te oefenen met programmeren.
 
+Er zijn tijdens kantooruren altijd één of meer assistenten aanwezig. Natuurlijk kun je ook langskomen om vragen stellen buiten de tijden dat je vast bent ingeroosterd.
+
 ## Verwachtingen: aanwezigheid en deadlines
 
 We verwachten dat je 10 uur per week aanwezig bent bij de computerpractica en 2 uur per week bij het werkcollege. In verband met ziekte is het altijd mogelijk computerpractica de volgende week in te halen.
@@ -129,12 +131,6 @@ Zie ook:
 
 * de [fraude- en plagiaatwebsite](http://studentenserviceplein.uva.nl/serviceplein/content/fraude-plagiaat-en-bronvermelding/plagiaat-volgens-de-uva/plagiaat-volgens-de-uva.html) van de universiteit;
 * de onderwijs- en examenregeling van Informatiekunde.
-
-## Begeleiding
-
-Er zijn tijdens kantooruren altijd één of meer assistenten aanwezig. Natuurlijk kun je ook langskomen om vragen stellen buiten de tijden dat je vast bent ingeroosterd. Ook is er voor de zaaltjes genoeg plek om te werken.
-
-Daarnaast kun je op elke pagina van deze site vragen stellen. Zowel privé aan de docenten, als publiekelijk. Dan kunnen ook je medestudenten antwoorden.
 
 ## Copyright
 
