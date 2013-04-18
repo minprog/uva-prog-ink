@@ -31,7 +31,7 @@ telefoon 525 5235
 
 ## Onderwijsvorm
 
-Dit vak bestaat uit videocolleges, een werkcollege, 7 computerpractica en één tentamen. Om de leerdoelen te kunnen halen is het bovenal belangrijk om heel veel te oefenen met programmeren.
+Dit vak bestaat uit videocolleges, 7 werkcolleges, 7 computerpractica en één tentamen. Om de leerdoelen te kunnen halen is het bovenal belangrijk om heel veel te oefenen met programmeren.
 
 ## Verwachtingen: aanwezigheid en deadlines
 
