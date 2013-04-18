@@ -37,6 +37,8 @@ Dit vak bestaat uit videocolleges, een werkcollege, 7 computerpractica en één 
 
 We verwachten dat je 10 uur per week aanwezig bent bij de computerpractica en 2 uur per week bij het werkcollege. In verband met ziekte is het altijd mogelijk computerpractica de volgende week in te halen.
 
+Als je meer dan een week vooruit loopt kun je verzoeken om vrijstelling van de aanwezigheidsverplichting bij practica. Dit wordt alleen gehonoreerd als je code van uitstekende kwaliteit is. Het werkcollege blijft verplicht.
+
 We verwachten dat je uiterlijk donderdagavond je computerpracticum van de week inlevert. In het geval van overmacht is het mogelijk de deadline één keer te missen. Dit moet wel dezelfde donderdag voor 9 uur 's ochtends al bekend zijn.
 
 Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen contact opneemt. We zijn altijd bereid te zoeken naar oplossingen voor zover mogelijk met de hoeveelheid studenten in het vak.
@@ -70,15 +72,15 @@ Dat betekent een wekelijkse studielast van gemiddeld 21 uur. Hou er rekening mee
 
 Je krijgt een eindcijfer voor dit vak als je:
 
-* alle dagen aanwezig bent geweest;
-* alle benodigde programma's op tijd hebt aangeleverd;
+* voldoende uren aanwezig bent geweest tijdens de practica;
+* alle benodigde programma's op tijd hebt ingeleverd;
 * een voldoende hebt gehaald voor het tentamen.
 
 Als je niet aan deze voorwaarden voldoet, krijg je geen cijfer voor het vak. Niettemin denken we dat elke student deze cursus kan halen.
 
 ### Computerpractica
 
-Inleveren op de wekelijkse deadline, minimum gemiddelde cijfer een 5.5, minimum cijfer per practicum een 4. Practica zijn niet herkansbaar in verband met de hoeveelheid tijd die dit kost. Elk practicum moet worden ingeleverd.
+Voor elk computerpracticum moet je minimaal een 4 gehaald hebben. Gemiddeld moet je een 5.5 halen. Practica zijn helaas niet te herkansen in verband met de tijd die dit kost.
 
 Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 
