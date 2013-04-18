@@ -4,8 +4,6 @@
 
 Welkom bij deze cursus Inleiding Programmeren. We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je leert over de basis van het programmeren, maar je gaat ook kijken naar toepassingen in andere vakgebieden.
 
-|Algemene informatie|                              |
-|-----------|--------------------------------------|
 |Opleiding  |Informatiekunde jaar 1 en de minor ICM|
 |Periode    |Semester 1, periode 1                 |
 |Coördinator|Hans Dekkers                          |
