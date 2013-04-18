@@ -1,4 +1,4 @@
-# Studiehandleiding
+# Studiewijzer
 
 *Versie: April 2013*
 
