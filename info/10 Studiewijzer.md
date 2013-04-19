@@ -25,8 +25,9 @@ telefoon 525 5235
 ## Leerdoelen
 
 * Je kunt uitleggen hoe een computer werkt en gebruikt kan worden om problemen door te rekenen en informatie te beheren.
-* Je kunt een idee voor een programma omzetten naar werkende code.
-* Je kunt bij programmeertalen bijgeleverde bibliotheken hergebruiken in je eigen programma's.
+* Je kunt een idee voor een programma omzetten naar werkende code, opgedeeld in functies.
+* Je kunt bij programmeertalen bijgeleverde bibliotheken gebruiken in je eigen programma's.
+* Je kunt programma's overzichtelijk en beter leesbaar maken door een consistente stijl toe te passen.
 * Je kunt programmeerfouten opsporen en verbeteren: syntaxfouten in de code en logische fouten in de achterliggende algoritmes.
 
 ## Onderwijsvorm
@@ -46,10 +47,6 @@ We verwachten dat je uiterlijk donderdagavond je computerpracticum van de week i
 Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen contact opneemt. We zijn altijd bereid te zoeken naar oplossingen voor zover mogelijk met de hoeveelheid studenten in het vak.
 
 Een laatste verwachting van ons is dat je buiten de practicumuren de videocolleges kijkt. Ze staan op YouTube, dus kijk ze lekker in de trein of thuis op de bank.
-
-## Academische vorming en vaardigheden
-
-??
 
 ## Literatuur
 
@@ -90,6 +87,8 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 * correctheid (met dien verstande dat het in principe correct moet werken)
 * stijl (in het kort: hoe leesbaar is het voor de beoordelaar?)
 * ontwerp (is het niet onnodig ingewikkeld?)
+
+(Beoordelingsschalen worden nog ingevoegd.)
 
 De bedoeling is dat je tijdens de cursus steeds betere en leesbaardere programma's gaat insturen. De schaal staat dus niet helemaal vast: we kijken ook hoe je prestaties groeien.
 
