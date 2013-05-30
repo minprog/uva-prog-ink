@@ -1,0 +1,8 @@
+name: day1
+form: true
+required:
+    - homework1.py
+    - rps.py
+    - loops.py
+    - zellers.py
+    - cipher.py
