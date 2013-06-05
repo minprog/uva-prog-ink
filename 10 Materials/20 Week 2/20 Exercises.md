@@ -278,7 +278,7 @@ Work through the [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.h
 and create a file called `pyplot.py` to save your tutorial tests. Put each 
 example in a separate function!
 
-## Pig Latin
+## 2.9 Pig Latin
 
 Write a function pig_latin that takes in a single word, then converts the
 word to Pig Latin. To review, Pig Latin takes the first letter of a word, 
