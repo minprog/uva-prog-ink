@@ -1,0 +1,5 @@
+name: ps03
+required:
+  - hangman.py
+  - ps3a.py
+  - ps3b.py
