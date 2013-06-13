@@ -11,7 +11,7 @@ Welkom bij deze cursus Inleiding Programmeren. We gaan programmeren in Python, e
 |Studielast |6 studiepunten                        |
 |Vakcode    |5072PRGM6Y                            |
 
-Binnen de opleiding informatiekunde en de minor ICM is dit vak het begin van de leerlijn Programmeren. De vaardigheden dit je hier leert heb je nodig om de computerpractica van andere vakken te kunnen maken.
+Binnen de opleiding informatiekunde en de minor ICM is dit vak het begin van de leerlijn Techniek. De vaardigheden dit je hier leert heb je nodig om de computerpractica van andere vakken te kunnen maken.
 
 ## Contact
 
@@ -38,11 +38,13 @@ Er zijn tijdens kantooruren altijd één of meer assistenten aanwezig. Natuurlij
 
 ## Verwachtingen: aanwezigheid en deadlines
 
-We verwachten dat je 10 uur per week aanwezig bent bij de computerpractica en 2 uur per week bij het werkcollege. In verband met ziekte is het altijd mogelijk computerpractica de volgende week in te halen.
+We verwachten dat je 10 uur per week aanwezig bent bij de computerpractica en 2 uur per week bij het werkcollege. In verband met ziekte is het in overleg mogelijk computerpractica de volgende week in te halen.
 
 Als je meer dan een week vooruit loopt kun je verzoeken om vrijstelling van de aanwezigheidsverplichting bij practica. Dit wordt alleen gehonoreerd als je code van uitstekende kwaliteit is. Het werkcollege blijft verplicht.
 
 We verwachten dat je uiterlijk donderdagavond je computerpracticum van de week inlevert. In het geval van overmacht is het mogelijk de deadline één keer te missen. Dit moet wel dezelfde donderdag voor 9 uur 's ochtends al bekend zijn.
+
+Ben je niet voldoende aanwezig geweest bij de practica dan krijg je geen eindcijfer.
 
 Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen contact opneemt. We zijn altijd bereid te zoeken naar oplossingen voor zover mogelijk met de hoeveelheid studenten in het vak.
 
@@ -65,7 +67,7 @@ Dit ben je per week kwijt aan dit vak:
 * 1 werkcollege van 2 uur
 * 3 videocolleges van 1 uur
 
-Dat betekent een wekelijkse studielast van gemiddeld 21 uur. Hou er rekening mee dat je vooral in de eerste weken best wat meer tijd kwijt kan zijn. Als je nog niet eerder geprogrammeerd hebt moet je even over een drempel heen voordat je het begint te begrijpen.
+Dat betekent een wekelijkse studielast per week van gemiddeld 21 uur. Hou er rekening mee dat je vooral in de eerste weken best wat meer tijd kwijt kan zijn. Als je nog niet eerder geprogrammeerd hebt moet je even over een drempel heen voordat je het begint te begrijpen.
 
 ## Toetsing
 
@@ -79,20 +81,38 @@ Als je niet aan deze voorwaarden voldoet, krijg je geen cijfer voor het vak. Nie
 
 ### Computerpractica
 
-Voor elk computerpracticum moet je minimaal een 4 gehaald hebben. Gemiddeld moet je een 5.5 halen. Practica zijn helaas niet te herkansen in verband met de tijd die dit kost.
+Voor elk computerpracticum moet je minimaal een 4 gehaald hebben. Gemiddeld moet je een 5.5 halen. Practica zijn niet te herkansen in verband met de tijd die dit kost.
 
 Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 
-* omvang (heb je alle opdrachten gedaan? anders sturen we het terug)
+* omvang
+	1. onaf
+	2. basis staat maar niet alles afgemaakt
+	3. precies het minimum
+	4. extra's geprobeerd
+	5. veel extra's
 * correctheid (met dien verstande dat het in principe correct moet werken)
-* stijl (in het kort: hoe leesbaar is het voor de beoordelaar?)
-* ontwerp (is het niet onnodig ingewikkeld?)
-
-(Beoordelingsschalen worden nog ingevoegd.)
+	1. onvoldoende, niet goed werkend te krijgen
+	2. problemen in de werking die snel op te lossen zijn
+	3. werkt, maar niet altijd goede antwoord
+	4. goede antwoord, ook voor randgevallen
+	5. perfectie, foutieve invoer afgevangen
+* stijl
+	1. onleesbaar voor assistent
+	2. te weinig geprobeerd
+	3. paar kleine problemen maar leesbaar
+	4. zeer goed leesbaar
+	5. perfectie, niets op aan te merken
+* ontwerp
+	1. veel onnodig ingewikkelde constructies, vermijden bepaalde mogelijkheden
+	2. ingewikkeld, maar toont kennis van mogelijkheden
+	3. geen ingewikkelde constructies, details misschien inefficiënt
+	4. goed gebruik van de mogelijkheden die te taal biedt
+	5. korte functies, goed gebruik van modules of andere abstracties, perfectie
 
 De bedoeling is dat je tijdens de cursus steeds betere en leesbaardere programma's gaat insturen. De schaal staat dus niet helemaal vast: we kijken ook hoe je prestaties groeien.
 
-Het is prima om vóór je instuurt de assistent nog even te vragen naar je opgave te kijken.
+Het is prima om vóór je instuurt de assistent nog even te vragen naar je opgave te kijken en verbeteringen aan te brengen.
 
 ### Tentamen
 
@@ -128,7 +148,7 @@ Vorig jaar is één student uitgesloten van deelname na het kopiëren van een pr
 
 Zie ook:
 
-* de [fraude- en plagiaatwebsite](http://studentenserviceplein.uva.nl/serviceplein/content/fraude-plagiaat-en-bronvermelding/plagiaat-volgens-de-uva/plagiaat-volgens-de-uva.html) van de universiteit;
+* de [fraude- en plagiaatwebsite](http://www.uva.nl/plagiaat), en
 * de onderwijs- en examenregeling van Informatiekunde.
 
 ## Copyright
