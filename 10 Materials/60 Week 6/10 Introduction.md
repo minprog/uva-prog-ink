@@ -1,6 +1,6 @@
 # Welcome to week 4!
 
-Today, you'll learn about strings;
+Today, you'll learn about file input/output;
 
 Please prepare for this day using the readings below. They will not always
 immediately make sense without practice, but that's no problem. You may want
@@ -10,7 +10,7 @@ to re-read them after this practice session!
 
 From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/html/index.html).
 
-* [7. Strings](http://www.greenteapress.com/thinkpython/html/thinkpython009.html)
+* [14.1-14.5 Files](http://www.greenteapress.com/thinkpython/html/thinkpython015.html)
 
 ## What to turn in
 
