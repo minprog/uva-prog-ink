@@ -13,10 +13,10 @@ For this problem, you will need the code files `ps2_hangman.py` and
 `words.txt`, which were included in the zip file from the top of this
 homework. Make sure your file runs properly before editing. You should
 get the following output when running the unmodified version of
-`ps2_hangman.py`.
+`hangman.py`.
 
 	Loading word list from file...
-	55900 words loaded.
+	83667 words loaded.
 
 You will want to do all of your coding for this problem within this
 file as well because you will be writing a program that depends on
@@ -29,7 +29,7 @@ Here are the requirements for your game:
 1. The computer must select a word at random from the list of
 available words that was provided in `words.txt`. The functions for
 loading the word list and selecting a random word have already been
-provided for you in `ps2_hangman.py`.
+provided for you in `hangman.py`.
 2. The game must be interactive: it should let a player know how many
 letters the word the computer has picked contains and ask the user to
 supply guesses. The user should receive feedback immediately after
@@ -149,8 +149,8 @@ than we anticipated.
 
 ### Getting Started
 
-1. Download and save the [Problem Set 3 code files][1].
-2. Run ps3a.py, without making any modifications to it, in order to
+1. Download and save the [Week 4 code files](week4.zip).
+2. Run homework4a.py, without making any modifications to it, in order to
    ensure that everything is set up correctly. The code we have given
    you loads a list of valid words from a file and then calls the
    `play_game` function.  You will implement the functions it needs in
@@ -164,7 +164,7 @@ than we anticipated.
    (defined near the top of the file) to the complete pathname for the
    file `words.txt` (This will vary based on where you saved the
    file).
-3. The file `ps3a.py` has a number of already implemented functions
+3. The file `homework4a.py` has a number of already implemented functions
    you can use while writing up your solution. You can ignore the code
    between the following comments, though you should read and
    understand everything else:
@@ -187,13 +187,13 @@ than we anticipated.
    will help you debug your code.
 
 We have provided several test functions to get you started. As you
-make progress on the problem set, run `test_ps3a.py` as you go.
+make progress on the problem set, run `test_homework4a.py` as you go.
 
 If your code passes the unit tests you will see a `SUCCESS` message;
 otherwise you will see a `FAILURE` message. These tests aren’t
 exhaustive.  You may want to test your code in other ways too.
 
-If you run test_ps3a.py using the provided ps3a.py skeleton, you
+If you run test_homework4a.py using the provided homework4a.py skeleton, you
 should see that all the tests fail. These are the provided test
 functions:
 
@@ -211,7 +211,7 @@ the score for a single word. The function `get_word_score` should
 accept a string of lowercase letters as input (a word) and return the
 integer score for that word, using the game’s scoring rules.
 
-Fill in the code for get_word_score in ps3a.py:
+Fill in the code for get_word_score in homework4a.py:
 
 	def get_word_score(word, n):
 		"""Returns the score for a word. Assumes the word is a valid word.
@@ -232,14 +232,14 @@ Fill in the code for get_word_score in ps3a.py:
 You may assume that the input word is always either a string of
 lowercase letters, or the empty string `""`. You will want to use the
 `SCRABBLE_LETTER_VALUES` dictionary defined at the top of
-`ps3a.py`. You should not change its value.
+`homework4a.py`. You should not change its value.
 
 Do **not** assume that there are always 7 letters in a hand! The
 parameter `n` is the number of letters required for a bonus score (the
 maximum number of letters in the hand).
 
 Testing: if this function is implemented properly, and you run
-`test_ps3a.py`, you should see that the `test_get_word_score()` tests
+`test_homework4a.py`, you should see that the `test_get_word_score()` tests
 pass.
 
 Also test your implementation of `get_word_score`, using some
@@ -279,7 +279,7 @@ None, so that this method never raises a KeyError.
 ### Converting words into dictionary representation
 
 One useful function we’ve defined for you is `get_frequency_dict`,
-defined near the top of `ps3a.py`. When given a string of letters as
+defined near the top of `homework4a.py`. When given a string of letters as
 an input, it returns a dictionary where the keys are letters and the
 values are the number of times that letter is represented in the input
 string.  For example:
@@ -446,8 +446,8 @@ values for `HAND_SIZE` with your program.
 
 ## Problem 6. Computer word choose
 
-**This is all dependent on your functions from ps3a.py, so be sure to
-  complete ps3a.py before working on ps3b.py**
+**This is all dependent on your functions from homework4a.py, so be sure to
+  complete homework4a.py before working on homework4b.py**
 
 You decide to teach your computer (SkyNet) to play the game you just
 built so that you can prove once and for all that computers are

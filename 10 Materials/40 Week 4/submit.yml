@@ -1,5 +1,5 @@
-name: ps03
+name: week4
 required:
   - hangman.py
-  - ps3a.py
-  - ps3b.py
+  - homework4a.py
+  - homework4b.py

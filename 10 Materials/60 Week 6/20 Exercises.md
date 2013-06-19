@@ -1,4 +1,4 @@
-## Exercise: data processing ##
+## Exercise: data processing
 
 First, download [population.csv](population.csv) (**download, not open in
 Excel!**), containing a list of the population counts in the Netherlands over
@@ -46,7 +46,7 @@ there's a decimal point in the population count!
 ### Printing the population list nicely ###
 
 Your first assignment with this file is to print the data to the screen.
-Define a function like this:
+Create a file called `hw6.py` and define a function like this:
 
 	def print_population_list(filename):
 		'''

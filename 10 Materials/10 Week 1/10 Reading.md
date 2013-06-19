@@ -1,4 +1,4 @@
-# The first day!
+# The first week
 
 This *Python Practice* section will be your first day of Python programming. Today, you'll learn about communicating with the user, strings, loops and if statements.
 
@@ -17,10 +17,3 @@ From [*How to think like a computer scientist* (Allen Downey)](http://www.greent
 * [7.2 Updating variables](http://www.greenteapress.com/thinkpython/html/thinkpython008.html#toc78)
 * [7.3 The `while` statement](http://www.greenteapress.com/thinkpython/html/thinkpython008.html#toc79)
 
-## What to turn in
-
-You are to hand in the answers to the exercises, three python source code files that we can test, and optionally one or two python files for the Hacker edition.
-
-## Deadline
-
-The deadline is today, by 18:00. However, you are required to review your exercises with an assistant before 16:30. 

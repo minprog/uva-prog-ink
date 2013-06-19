@@ -38,12 +38,10 @@ become ' ', 'z' would become 'a', and ' ' would become 'b'.
 
 ### Getting Started
 
-The zip file can be downloaded [here].
+The zip file can be downloaded [here](week5.zip).
 
-[here]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-10-hashing-and-classes/ps4.zip
-
-* ps4-psuedo.txt: For problems 2a and 4a.
-* ps4.py: the skeleton you’ll fill in
+* hw5-psuedo.txt: For problems 2a and 4a.
+* hw5.py: the skeleton you’ll fill in
 * words.txt: a list of English words
 * fable.txt: an encoded fable
 
@@ -58,7 +56,7 @@ If you see an IOError instead (e.g., No such file or directory), you should chan
 WORDLIST_FILENAME constant (defined near the top of the file) to the complete pathname
 for the file words.txt (this will vary based on where you saved the file).
 
-The file, ps4.py, has a few functions already implemented that you can use while writing up your
+The file, hw5.py, has a few functions already implemented that you can use while writing up your
 solution. You can ignore the code between the following comments, though you should read and
 understand everything else:
 
@@ -402,9 +400,9 @@ of the problem set how the fable relates to your education at MIT.
     
 ### Hand-In Procedure
 
-1. You should be using the ps4.py skeleton given to you in this problem set. Fill in the code for the
+1. You should be using the hw5.py skeleton given to you in this problem set. Fill in the code for the
 functions: *build\_coder()*, *apply\_coder()*, *apply\_shift()*, *find\_best\_shift()*, *apply\_shifts()*, and
-*find\_best\_shifts()*. Any other code is not necessary. Save your solution as ps4.py.
+*find\_best\_shifts()*. Any other code is not necessary. Save your solution as hw5.py.
 2. At the start of each file, in a comment, write down the number of hours (roughly) you spent on
 the problems in that part, and the names of the people you collaborated with. For example:
 
