@@ -6,11 +6,12 @@ wordgame Hangman. For those of you who are unfamiliar with the rules,
 you may read all about it here. In this problem, the second player
 will always be the computer, who will be picking a word at random.
 
-Implement a function, `hangman()`, that will start up and carry out an
-interactive Hangman game between a player and the computer.
+Download and save the [Week 4 code files](week4.zip). Implement a function,
+`hangman()`, that will start up and carry out an interactive Hangman game
+between a player and the computer.
 
-For this problem, you will need the code files `ps2_hangman.py` and
-`words.txt`, which were included in the zip file from the top of this
+For this problem, you will need the code files `hangman.py` and
+`words.txt`, which were included in the zip file from  of this
 homework. Make sure your file runs properly before editing. You should
 get the following output when running the unmodified version of
 `hangman.py`.
@@ -149,8 +150,7 @@ than we anticipated.
 
 ### Getting Started
 
-1. Download and save the [Week 4 code files](week4.zip).
-2. Run homework4a.py, without making any modifications to it, in order to
+1. Run homework4a.py, without making any modifications to it, in order to
    ensure that everything is set up correctly. The code we have given
    you loads a list of valid words from a file and then calls the
    `play_game` function.  You will implement the functions it needs in
@@ -164,7 +164,7 @@ than we anticipated.
    (defined near the top of the file) to the complete pathname for the
    file `words.txt` (This will vary based on where you saved the
    file).
-3. The file `homework4a.py` has a number of already implemented functions
+2. The file `homework4a.py` has a number of already implemented functions
    you can use while writing up your solution. You can ignore the code
    between the following comments, though you should read and
    understand everything else:
@@ -179,7 +179,7 @@ than we anticipated.
 		# (end of helper code)
 		# -----------------------------------
 
-4. This problem set is structured so that you will write a number of
+3. This problem set is structured so that you will write a number of
    modular functions and then glue them together to form the complete
    word playing game. Instead of waiting until the entire game is
    ready, you should test each function you write, individually,
