@@ -17,5 +17,6 @@ From [*How to think like a computer scientist* (Allen Downey)](http://www.greent
 
 From [*Making Games with Python and Pygame* (Al Sweigart)](http://inventwithpython.com/pygame/chapters/).
 
-* [Pygame Basics](http://inventwithpython.com/pygame/chapter2.html)
+* [Pygame Basics](http://inventwithpython.com/pygame/chapter2.html) (Until the Animation paragraph)
+* [Pygame.event Reference](http://www.pygame.org/docs/ref/event.html) (The list of possible event types and their attributes)
 
