@@ -14,7 +14,7 @@ to re-read them after this practice session!
 
 From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/html/index.html).
 
-* [Lists](http://www.greenteapress.com/thinkpython/html/thinkpython011.html)
-* [Dictionaries](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
-* [Tuples](http://www.greenteapress.com/thinkpython/html/thinkpython013.html)
-
+* [11. Lists](http://www.greenteapress.com/thinkpython/html/thinkpython011.html)
+* [12. Dictionaries](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
+* [13. Tuples](http://www.greenteapress.com/thinkpython/html/thinkpython013.html)
+* [14.1-14.5 Files](http://www.greenteapress.com/thinkpython/html/thinkpython015.html)

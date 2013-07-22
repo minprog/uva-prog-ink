@@ -1,6 +1,6 @@
 # Questions
 
-## Mutability
+## 3.9 Mutability
 
 We've learned about many Python data structures (strings, lists, tuples,
 dictionaries). For both "mutable" and "immutable", please give a short (5
@@ -15,7 +15,7 @@ Immutable:
 
 <textarea name="a[3-1-2]"></textarea>
 
-## Finding Bugs
+## 3.10 Finding Bugs
 
 The following set of instructions were given to Ben Bitdiddle, and he produced
 the code below. Find at least three bugs he made, and say how to fix them.
@@ -46,7 +46,7 @@ Bugs:
 
 3. <textarea name="a[3-2-3]"></textarea>
 
-## A Mystery Program
+## 3.11 A Mystery Program
 
 Ben next turned in the following uncommented code (WTF?? WHY) to the
 assistants. Help us figure out what it does!

@@ -11,12 +11,7 @@ to re-read them after this practice session!
 
 ## Readings
 
-From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/html/index.html).
-
-* [14.1-14.5 Files](http://www.greenteapress.com/thinkpython/html/thinkpython015.html)
-
 From [*Making Games with Python and Pygame* (Al Sweigart)](http://inventwithpython.com/pygame/chapters/).
 
 * [Pygame Basics](http://inventwithpython.com/pygame/chapter2.html) (Until the Animation paragraph)
 * [Pygame.event Reference](http://www.pygame.org/docs/ref/event.html) (The list of possible event types and their attributes)
-

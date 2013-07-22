@@ -106,9 +106,9 @@ This is just for practice, solutions will not be graded or collected in class.
 
 Use IDLE to calculate:
 
-1.	$6 + 4 * 10$
+1.	$$6 + 4 * 10$$
 
-2.	$(6 + 4) * 10$
+2.	$$(6 + 4) * 10$$
 
 	Compare this to #1, and note that Python uses parentheses just like you 
 	would in normal math to determine order of operations!
@@ -117,16 +117,16 @@ Use IDLE to calculate:
 
 4.	Positive root of the following equation:
 
-	$34x ^ 2 + 68x - 510$  
+	$$34x ^ 2 + 68x - 510$$
 	
 	Recall that given an equation  
 	
-	$ax ^ 2 + bx + c$  
+	$$ax ^ 2 + bx + c$$
 	
 	you can get one root using:
 	
-	$x_1 = ( -b + sqrt (b ^ 2 - 4ac) ) / ( 2a )$.
+	$$x_1 = ( -b + sqrt (b ^ 2 - 4ac) ) / ( 2a )$$.
 
-## Attribution
+## Acknowledgements
 
 The tutorial for IDLE is based on the official IDLE tutorial by Daryl Harms.
