@@ -11,7 +11,7 @@ Welkom bij deze cursus Inleiding Programmeren. We gaan programmeren in Python, e
 |Studielast |6 studiepunten                        |
 |Vakcode    |5072PRGM6Y                            |
 
-Binnen de opleiding informatiekunde en de minor ICM is dit vak het begin van de leerlijn Techniek. De vaardigheden dit je hier leert heb je nodig om de computerpractica van andere vakken te kunnen maken.
+Binnen de opleiding informatiekunde en de minor ICM is dit vak het begin van de leerlijn Techniek. De vaardigheden die je hier leert heb je nodig om de computerpractica van andere vakken te kunnen maken.
 
 ## Contact
 
@@ -54,9 +54,9 @@ Een laatste verwachting van ons is dat je buiten de practicumuren de videocolleg
 
 Relevante links naar hoofdstukken staan telkens bij de verschillende opdrachten. Daarbij vind je hier de complete PDF-bestanden van drie Python-boeken die gebruikt worden:
 
-* Allen Downey et.al., [How to think like a computer scientist](http://staff.science.uva.nl/~mstgeman/progwis/CompleteBook.pdf), Green Tea Press
-* [Python programming](http://staff.science.uva.nl/~mstgeman/progwis/PythonProgramming.pdf), Wikibooks
-* Guido van Rossum, [Python tutorial](PythonTutorial), Python software foundation
+* Allen Downey et.al., [How to think like a computer scientist](http://www.greenteapress.com/thinkpython/thinkpython.pdf), Green Tea Press
+* [Python programming](http://en.wikibooks.org/wiki/Python_Programming), Wikibooks
+* Guido van Rossum, [Python tutorial](http://docs.python.org/2/tutorial/), Python software foundation
 
 ## Wekelijkse roostering
 
