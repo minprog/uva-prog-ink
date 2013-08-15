@@ -12,9 +12,4 @@ to re-read them after this practice session!
 
 ## Readings
 
-From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/html/index.html).
-
-* [11. Lists](http://www.greenteapress.com/thinkpython/html/thinkpython011.html)
-* [12. Dictionaries](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
-* [13. Tuples](http://www.greenteapress.com/thinkpython/html/thinkpython013.html)
-* [14.1-14.5 Files](http://www.greenteapress.com/thinkpython/html/thinkpython015.html)
+From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/) chapters 10, 11, 12, and 14.1 -- 14.5.

@@ -8,7 +8,5 @@ to re-read them after this practice session!
 
 ## Readings
 
-From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/html/index.html).
-
-* [7. Strings](http://www.greenteapress.com/thinkpython/html/thinkpython009.html)
+From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/) chapter 7.
 
