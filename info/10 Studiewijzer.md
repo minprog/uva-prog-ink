@@ -32,7 +32,7 @@ telefoon 525 5235
 
 ## Onderwijsvorm
 
-Dit vak bestaat uit videocolleges, 7 werkcolleges, 7 computerpractica en één tentamen. Om de leerdoelen te kunnen halen is het bovenal belangrijk om heel veel te oefenen met programmeren.
+Dit vak bestaat uit videocolleges, zeven werkcolleges, vijf problem sets, één project en één tentamen. Om de leerdoelen te kunnen halen is het bovenal belangrijk om heel veel te oefenen met programmeren.
 
 Er zijn tijdens kantooruren altijd één of meer assistenten aanwezig. Natuurlijk kun je ook langskomen om vragen stellen buiten de tijden dat je vast bent ingeroosterd.
 
