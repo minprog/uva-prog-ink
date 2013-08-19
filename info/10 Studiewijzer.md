@@ -209,7 +209,3 @@ Zie ook:
 
 * de [fraude- en plagiaatwebsite](http://www.uva.nl/plagiaat), en
 * de onderwijs- en examenregeling van Informatiekunde.
-
-## Copyright
-
-De cursus is afgeleid van MIT 6.00. Creative Commons licentie invoegen.
