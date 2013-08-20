@@ -33,11 +33,11 @@ Because this game is interactive, put it in a separate file named `nims.py`.
 Do create a function called `play_nims`, as follows:
 
 	def play_nims(pile, max_stones):
-		'''
+		"""
 		An interactive two-person game; also known as Stones.
 		@param pile: the number of stones in the pile to start
 		@param max_stones: the maximum number of stones you can take on one turn
-		'''
+		"""
 
 Check out the lines of text in between the sets of `'''`, underneath the
 definition. This is called a *docstring*, and is handy to use to tell other
@@ -186,7 +186,7 @@ Some useful things to remember:
 * To get just a piece of a string, use the slice operator. For example:
 
 		astring = 'hello'
-		substr  = astring[1:-1]  #sets substr to 'ell'
+		substr  = astring[1:-1]  # sets substr to 'ell'
 
 * You can decide for yourself whether you want your function to correctly
   identify palindromes that have spaces (such as 'able was i ere i saw elba').
@@ -285,13 +285,13 @@ Define a function that reads all lines and `return`s the data in a dictionary
 object.
 
 	def population_dict(filename):
-		'''
+		"""
 		Reads the population from a CSV file, containing 
 		years in column 2 and population / 1000 in column 3.
 
 		@param filename: the filename to read the data from
 		@return dictionary containing year -> population
-		'''
+		"""
 
 Also, the year in the dictionary should be of a reasonable type. An integer is
 ok, but a string is also fine. The population however, is interesting to do

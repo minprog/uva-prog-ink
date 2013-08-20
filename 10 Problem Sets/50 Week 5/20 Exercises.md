@@ -138,9 +138,9 @@ in the order they are listed here):
         'q': 't', 'p': 's', 's': 'v', 'r': 'u', 'u': 'x', 't': 'w', 'w': 'z',
         'v': 'y', 'y': 'a', 'x': ' ', 'z': 'b'}
         (The order of the key-value pairs may be different.)
-        HINT : Use build_coder.
         """
         ### TODO.
+        # HINT: Use build_coder.
     
     def build_decoder(shift):
         """
@@ -165,9 +165,9 @@ in the order they are listed here):
         'q': 'n', 'p': 'm', 's': 'p', 'r': 'o', 'u': 'r', 't': 'q', 'w': 't',
         'v': 's', 'y': 'v', 'x': 'u', 'z': 'w'}
         (The order of the key-value pairs may be different.)
-        HINT : Use build_coder.
         """
         ### TODO.
+        # HINT: Use build_coder.
     
     def build_coder(shift):
         """
@@ -304,7 +304,8 @@ To do this, implement the following function according to the specification.
         returns: text after applying the shifts to the appropriate
         positions
         Example:
-        >>> apply_shifts("Do Androids Dream of Electric Sheep?", [(0,6), (3, 18), (12, 16)])
+        >>> clear_text = "Do Androids Dream of Electric Sheep?"
+        >>> apply_shifts(clear_text, [(0,6), (3, 18), (12, 16)])
         'JufYkaolfapxQdrnzmasmRyrpfdvpmEurrb?'
         """
         ### TODO.
@@ -349,12 +350,12 @@ To do this, implement the following function according to the specification.
         [(0, 25), (11, 2), (21, 5)]
         >>> apply_shifts(s, shifts)
         'compositor multiform accents'
-        >>> s = apply_shifts("Do Androids Dream of Electric Sheep?", [(0,6), (3,
-        18), (12, 16)])
-        >>> s
+        >>> clear_text = "Do Androids Dream of Electric Sheep?"
+        >>> cipher_text = apply_shifts(clear_text, [(0,6), (3, 18), (12, 16)])
+        >>> cipher_text
         'JufYkaolfapxQdrnzmasmRyrpfdvpmEurrb?'
-        >>> shifts = find_best_shifts(wordlist, s)
-        >>> print apply_shifts(s, shifts)
+        >>> shifts = find_best_shifts(wordlist, cipher_text)
+        >>> print apply_shifts(cipher_text, shifts)
         Do Androids Dream of Electric Sheep?
         """
 
@@ -397,11 +398,12 @@ you implemented in problem 4 and thus results tend to vary between students. If
 you do not complete this problem, make sure you can still pass the problem 4
 examples:
 
-        s = apply_shifts("Do Androids Dream of Electric Sheep?", [(0,6), (3, 18), (12, 16)])
-        print s
-        shifts = find_best_shifts(wordlist, s)
+        clear_text = "Do Androids Dream of Electric Sheep?"
+        cipher_text = apply_shifts(clear_text, [(0,6), (3, 18), (12, 16)])
+        print cipher_text
+        shifts = find_best_shifts(wordlist, cipher_text)
         print shifts
-        print apply_shifts(s, shifts)
+        print apply_shifts(cipher_text, shifts)
 
 Now that you have all the pieces to the puzzle, please use them to decode the
 file, `fable.txt`. At the bottom of the skeleton file, you will see a method
