@@ -1,11 +1,9 @@
-# Exercises
-
 **Important**: most of these exercises should be put in a file called
 `homework2.py`. You should make sure this file immediately runs and gives
 correct output for every exercise. The same goes for all other files you
 submit.
 
-## 2.0 Print vs Return
+# 2.0 Print vs Return
 
 This isn't really an exercise, just an important bit of reading. These two
 functions are defined:
@@ -62,7 +60,7 @@ are separated by commas. Try this:
 	>>> print 'x:', x, 'x squared:', x*x, 'sqrt(x):', x**0.5
 	x: 100 x squared: 10000 sqrt(x): 10.0
 
-## Intermezzo: Functions
+# Intermezzo: Functions
 
 > Note: So far we have been using raw_input to get user input. For the 
 > remainder of this course we will move away from this tool, instead writing
@@ -70,7 +68,7 @@ are separated by commas. Try this:
 > input. So, for this and all following problems, do not use raw_input unless
 > explicitly told to do so.
 
-## 2.1 Defining A Function
+# 2.1 Defining A Function
 
 Recall how we define a function using `def`, and how we pass in parameters. 
 In homework2.py, paste your code from exercise 1.7 (the rock, paper, scissors
@@ -81,20 +79,20 @@ printing it.
 Think a bit about the name you give to the function. Discuss with your 
 neighbor what name would be best.
 
-## Intermezzo: Testing
+# Intermezzo: Testing
 
 > In order to quickly evaluate the code you have written, and to get some
 > practice in writing test, you are to include **at least 3** test cases
 > below your code for each exercise.
 
-## 2.2 Testing your function
+# 2.2 Testing your function
 
 Because rock, paper, scissors now is a function that returns a value,
 you can easily call it in a test. Write three test cases for
 rock, paper, scissors. Put them directly below your function and mark in a
 comment that they are testing statements.
 
-## 2.3 Writing simple methods
+# 2.3 Writing simple methods
 
 In this problem you'll be asked to write two simple methods (*method* is an
 interchangeable term for *function*). Be sure to test your functions well, 
@@ -120,7 +118,7 @@ including at least 3 test cases for each method.
    function! Test if your code works by thinking of examples and making sure
    the output is the same for your new method as `!=` gives you.
 
-## 2.4 Additional List Practice
+# 2.4 Additional List Practice
 
 After the crash course last week, you'll probably need some more practice
 with lists.
@@ -142,7 +140,7 @@ elements.
     list_intersection([2, 3], [3,  3,  3,  2, 10])        # [3, 2]
     list_intersection([2, 4, 6], [1, 3, 5])               # []
 
-## 2.5 The `math` module
+# 2.5 The `math` module
 
 In this exercise, we will play with some of the functions provided in the 
 `math` module. A **module** is a Python file with a collection of related 
@@ -213,7 +211,7 @@ yourself debugging two methods at the same time, which can be very difficult.
 	
 		yikes(5) is 1.0303150673
 
-## 2.6 More functions
+# 2.6 More functions
 
 Here's two more functions to try your hand at.
 
@@ -245,7 +243,7 @@ Here's two more functions to try your hand at.
 		6
 		That's all!
 
-## 2.7 Working with lists
+# 2.7 Working with lists
 
 Check out this function that sums all numbers in a list:
 
@@ -270,7 +268,7 @@ For example, the cumulative sum of `[4, 3, 6]` is `[4, 7, 13]`.
 
 Such a useful function!
 
-## 2.8 Plotting
+# 2.8 Plotting
 
 Ooooh this is nice! Graphical output with Python.
 
@@ -278,7 +276,7 @@ Work through the [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.h
 and create a file called `pyplot.py` to save your tutorial tests. Put each 
 example in a separate function!
 
-## 2.9 Pig Latin
+# 2.9 Pig Latin
 
 Write a function pig_latin that takes in a single word, then converts the
 word to Pig Latin. To review, Pig Latin takes the first letter of a word, 
@@ -299,7 +297,7 @@ letter, you can use `word[1:]`.
 Test your function with some interesting tests of which you already know
 the answer!
 
-### Sentences
+## Sentences
 
 Converting one word to Pig Latin is okay, but it would be more useful to be
 able to convert whole sentences; so for this exercise, we'll use `raw_input`
@@ -341,4 +339,3 @@ a true converter. Finally, you could try and deal with punctuation by
 looking for it within a string and moving it to the end of the word (the
 solutions I wrote only handle commas, periods, !, ?, : and ; that appear 
 at the ends of words, as they are pretty simple to handle).
-

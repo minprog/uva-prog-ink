@@ -1,5 +1,4 @@
-
-# 4.1 Hangman
+# 4.0 Hangman
 
 For this problem, you will implement a variation of the classic
 wordgame Hangman. For those of you who are unfamiliar with the rules,
@@ -23,7 +22,7 @@ You will want to do all of your coding for this problem within this
 file as well because you will be writing a program that depends on
 each function you write.
 
-### Requirements
+## Requirements
 
 Here are the requirements for your game:
 
@@ -89,7 +88,7 @@ looks. Make sure you break down the problem into logical
 subtasks. What functions will you need to have in order for this game
 to work?
 
-### Hints:
+## Hints:
 
 * You should start by using the provided functions to load the words
   and pick a random one.
@@ -99,9 +98,7 @@ to work?
   like `"ta_t"`) and to display unused letters made partitioning the
   problem easier.
 
-
-# 4.2 Wordgames
-
+# 4.1 Wordgames
 
 In this problem set, you’ll implement two versions of the 6.00
 wordgame! Don’t be intimidated by the length of this problem set. It’s
@@ -115,20 +112,20 @@ word and the letters in that word.
 
 The rules of the game are as follows:
 
-### Dealing
+## Dealing
 
-* A player is dealt a hand of n letters chosen at random (assume n=7
-  for now).
+* A player is dealt a hand of $$n$$ letters chosen at random (assume $$n=7$$ for
+  now).
 * The player arranges the hand into as many words as they want out of the
   letters, but using each letter at most once.
 * Some letters may remain unused (these won’t be scored).
 
-### Scoring
+## Scoring
 
 * The score for the hand is the sum of the score for the words times the
   length of the word.
 * The score for a word is the sum of the points for letters in the word,
-  multiplied by the length of the word, plus 50 points if all n letters are
+  multiplied by the length of the word, plus 50 points if all $$n$$ letters are
   used on the first go.
 * Letters are scored as in Scrabble; A is worth 1, B is worth 3, C is worth
   3, D is worth 2, E is worth 1, and so on. We have defined the dictionary
@@ -136,21 +133,21 @@ The rules of the game are as follows:
 		SCRABBLE_LETTER_VALUES
 		
   that maps each lowercase letter to its Scrabble letter value.
-* For example, ‘weed’ would be worth 32 points $$((4+1+1+2)*4=32)$$, as long as 
+* For example, ‘weed’ would be worth 32 points $$(4+1+1+2)*4=32$$, as long as 
   the hand actually has 1 ‘w’, 2 ‘e’s, and 1 ‘d’.
-* As another example, if n=7 and you get ‘waybill’ on the first go, it would
-  be worth 155 points $$((4+1+4+3+1+1+1)*7=105, +50)$$ for the bonus of using
+* As another example, if $$n=7$$ and you get ‘waybill’ on the first go, it would
+  be worth 155 points $$(4+1+4+3+1+1+1)*7=105$$, $$+50$$ for the bonus of using
   all seven letters).
   
-### Workload
+## Workload
 
 Please let us know how long you spend on each problem. We want to be
 careful not to overload you by giving out problems that take longer
 than we anticipated.
 
-### Getting Started
+## Getting Started
 
-1. Run homework4a.py, without making any modifications to it, in order to
+1. Run `homework4a.py`, without making any modifications to it, in order to
    ensure that everything is set up correctly. The code we have given
    you loads a list of valid words from a file and then calls the
    `play_game` function.  You will implement the functions it needs in
@@ -159,11 +156,10 @@ than we anticipated.
 
 		Loading word list from file... 83667 words loaded.
 		
-   If you see an IOError instead (e.g., No such file or directory),
-   you should change the value of the `WORDLIST_FILENAME` constant
-   (defined near the top of the file) to the complete pathname for the
-   file `words.txt` (This will vary based on where you saved the
-   file).
+   If you see an `IOError` instead (e.g., No such file or directory), you should
+   change the value of the `WORDLIST_FILENAME` constant (defined near the top of
+   the file) to the complete pathname for the file `words.txt` (This will vary
+   based on where you saved the file).
 2. The file `homework4a.py` has a number of already implemented functions
    you can use while writing up your solution. You can ignore the code
    between the following comments, though you should read and
@@ -211,7 +207,7 @@ the score for a single word. The function `get_word_score` should
 accept a string of lowercase letters as input (a word) and return the
 integer score for that word, using the game’s scoring rules.
 
-Fill in the code for get_word_score in homework4a.py:
+Fill in the code for `get_word_score` in `homework4a.py`:
 
 	def get_word_score(word, n):
 		"""Returns the score for a word. Assumes the word is a valid word.
@@ -227,7 +223,6 @@ Fill in the code for get_word_score in homework4a.py:
 		   returns: int >= 0
 		"""
 		# TO DO ...
-
 
 You may assume that the input word is always either a string of
 lowercase letters, or the empty string `""`. You will want to use the
@@ -274,7 +269,7 @@ not sure the key is in the dictionary.
 
 `d.get(key,default)` returns the value for key if key is in the
 dictionary `d`, else `default`. If `default` is not given, it returns
-None, so that this method never raises a KeyError.
+`None`, so that this method never raises a `KeyError`.
 
 ### Converting words into dictionary representation
 
