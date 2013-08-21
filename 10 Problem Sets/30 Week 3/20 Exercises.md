@@ -1,11 +1,9 @@
-# Exercises
-
 **Important**: most of these exercises should be put in a file called
 `homework3.py`. You should make sure this file immediately runs and gives
 correct output for every exercise. The same goes for all other files you
 submit.
 
-## 3.0 Quadratic Formula
+# 3.0 Quadratic Formula
 
 Write a function roots that computes the roots of a quadratic equation. Check
 for [complex roots] and print an error message saying that the roots are
@@ -25,7 +23,7 @@ Python can natively handle complex numbers: [reference].
 
 [reference]: http://infohost.nmt.edu/tcc/help/pubs/python/web/complex-type.html
 
-## 3.1 The game of Nims/Stones
+# 3.1 The game of Nims/Stones
 
 In this game, two players sit in front of a pile of 100 stones. They take
 turns, each removing between 1 and 5 stones (assuming there are at least 5
@@ -35,11 +33,11 @@ Because this game is interactive, put it in a separate file named `nims.py`.
 Do create a function called `play_nims`, as follows:
 
 	def play_nims(pile, max_stones):
-		'''
+		"""
 		An interactive two-person game; also known as Stones.
 		@param pile: the number of stones in the pile to start
 		@param max_stones: the maximum number of stones you can take on one turn
-		'''
+		"""
 
 Check out the lines of text in between the sets of `'''`, underneath the
 definition. This is called a *docstring*, and is handy to use to tell other
@@ -80,7 +78,7 @@ initially.
 
 When you're finished, test each other's programs by playing them!
 
-## 3.2 Report Card with GPA
+# 3.2 Report Card with GPA
 
 Write a function report card where the user can enter each of his grades,
 after which the program prints out a report card with GPA ([Urban
@@ -104,7 +102,7 @@ Hints: You'll want to use a for loop, and you'll probably want to keep track
 of names and grades seperately; there are a couple ways to do this. Remember,
 add to lists with `my_list.append(elt)`.
 
-## 3.3 Collision Detection of Balls
+# 3.3 Collision Detection of Balls
 
 Many games have complex physics engines, and one major function of these
 engines is to figure out if two objects are colliding. Weirdly-shaped objects
@@ -129,7 +127,7 @@ extra challenge, write your function to work with balls in 3D space. How
 should you represent the balls? You will also need to write your own test
 cases. Be sure to figure out any edge cases you need to test.
 
-## 3.5 Zeller's Algorithm, revisited
+# 3.5 Zeller's Algorithm, revisited
 
 This is similar to the Hacker exercise from Week 1, but in this version we
 will be writing a function that takes parameters, and using dictionaries to
@@ -159,18 +157,20 @@ Hints:
      the string '90' to the number 90, use `int('90')`; to convert the int 90 to
      the string '90', use `str(90)`.
 
-## 3.6 Double check
+# 3.6 Double check
 
 For every problem, check the following:
 
 * Have you put the problem in a function?
 * Have you added the problem to the right Python file?
 * Have you put your name on top of that file?
-* Have you made sure the program is NOT interactive (e.g. we don't have to type anything) except 3.1?
-* Have you written at least three tests to show the program is correct, or even more tests if the problem prescribes this?
+* Have you made sure the program is NOT interactive (e.g. we don't have to type
+  anything) except 3.1?
+* Have you written at least three tests to show the program is correct, or even
+  more tests if the problem prescribes this?
 * Do the tests give the expected output?
 
-## 3.7 Palindromes!
+# 3.7 Palindromes!
 
 Write a function is palindrome which takes a string as parameter, and returns
 True if the string is a palindrome (meaning it is the same forwards as
@@ -186,7 +186,7 @@ Some useful things to remember:
 * To get just a piece of a string, use the slice operator. For example:
 
 		astring = 'hello'
-		substr  = astring[1:-1]  #sets substr to 'ell'
+		substr  = astring[1:-1]  # sets substr to 'ell'
 
 * You can decide for yourself whether you want your function to correctly
   identify palindromes that have spaces (such as 'able was i ere i saw elba').
@@ -204,7 +204,7 @@ Some useful things to remember:
   (hint: the words 'ana' and 'anna' are both palindromes; when do we know to
   stop checking?)
 
-## 3.8 Data processing
+# 3.8 Data processing
 
 First, download [population.csv](population.csv) (**download, not open in
 Excel!**), containing a list of the population counts in the Netherlands over
@@ -249,7 +249,7 @@ Column 2 and 3 are more interesting. They contain the year and population in
 that year. But... they are strings. That's of no use in calculations. And
 there's a decimal point in the population count!
 
-### Printing the population list nicely
+## Printing the population list nicely
 
 Your first assignment with this file is to print the data to the screen.
 Create a file called `hw6.py` and define a function like this:
@@ -276,7 +276,7 @@ Put your test call right below the function definition:
 
 	print_population_list('N:\population.csv')
 
-### Reading the list into a dictionary
+## Reading the list into a dictionary
 
 This data connects a population count to a year. So a **dictionary** is the
 perfect data structure to put this data in.
@@ -285,13 +285,13 @@ Define a function that reads all lines and `return`s the data in a dictionary
 object.
 
 	def population_dict(filename):
-		'''
+		"""
 		Reads the population from a CSV file, containing 
 		years in column 2 and population / 1000 in column 3.
 
 		@param filename: the filename to read the data from
 		@return dictionary containing year -> population
-		'''
+		"""
 
 Also, the year in the dictionary should be of a reasonable type. An integer is
 ok, but a string is also fine. The population however, is interesting to do
@@ -301,7 +301,7 @@ Test the function with this call below your code:
 
 	print population_dict('N:\population.csv')
 
-### Plotting the population
+## Plotting the population
 
 Now that we can read the census data into a dictionary, we can do other stuff
 with it.
@@ -319,7 +319,7 @@ Again, put a test that calls your function in the file! It needs to read a
 dictionary and save it, and then pass that dictionary to the plotting function
 you just made.
 
-### Calculating year-over-year growth
+## Calculating year-over-year growth
 
 Now, we want some more statistics. Let's calculate the year-over-year growth
 percentage.
@@ -346,7 +346,7 @@ convert it to a dictionary. Nice!
 
 Plot your new dictionary using the same function that you defined previously.
 
-### Acknowledgements
+## Acknowledgements
 
 Thanks to Mark Guzdial's Computational Freakonomics class for a reference to
 the data we used here.

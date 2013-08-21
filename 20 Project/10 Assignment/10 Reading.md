@@ -3,7 +3,7 @@
 This week you'll learn about;
 
 * file input/output
-* creating graphics using Pygame
+* drawing graphics using Pygame
 
 Please prepare for this day using the readings below. They will not always
 immediately make sense without practice, but that's no problem. You may want

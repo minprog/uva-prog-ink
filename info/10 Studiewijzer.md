@@ -41,9 +41,9 @@ telefoon 525 5235
 
 ## Onderwijsvorm
 
-Dit vak bestaat uit videocolleges, zeven werkcolleges, vijf problem sets, één
-project en één tentamen. Om de leerdoelen te kunnen halen is het bovenal
-belangrijk om heel veel te oefenen met programmeren.
+Dit vak bestaat uit vijf problem sets en één project verspreid over zeven
+werkcolleges en één afsluitend tentamen. Om de leerdoelen te kunnen halen is het
+bovenal belangrijk om heel veel te oefenen met programmeren.
 
 Er zijn tijdens kantooruren altijd één of meer assistenten aanwezig. Natuurlijk
 kun je ook langskomen om vragen stellen buiten de tijden dat je vast bent
@@ -91,7 +91,6 @@ Dit ben je per week kwijt aan dit vak:
 * 3 computerpractica van 4 uur
 * thuis programmeren 5 uur
 * 1 werkcollege van 2 uur
-* 3 videocolleges van 1 uur
 
 Dat betekent een wekelijkse studielast per week van gemiddeld 21 uur. Hou er
 rekening mee dat je vooral in de eerste weken best wat meer tijd kwijt kan
