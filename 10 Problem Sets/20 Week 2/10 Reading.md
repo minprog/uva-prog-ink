@@ -15,4 +15,4 @@ to re-read them after this practice session!
 
 ## Readings
 
-From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/) chapters 10.1 -- 10.6, 3, 10.12, 10.13, 6.5 -- 6.9, and appendix A.
+From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/) chapters 3, 6.1 -- 6.5, 7.5 -- 7.∞, 10, and appendix A (where ∞ means till the end of the chapter).
