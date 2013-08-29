@@ -15,4 +15,11 @@ to re-read them after this practice session!
 
 ## Readings
 
-From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/) chapters 3, 6.1 -- 6.5, 7.5 -- 7.∞, 10, and appendix A (where ∞ means till the end of the chapter).
+From Think Python, read chapters:
+
+* 3. Functions
+* 6.1 -- 6.5 Fruitful functions
+* 7.5 -- 7.7 Algorithms
+* 10. Lists
+* Appendix A Debugging
+

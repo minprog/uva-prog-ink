@@ -8,5 +8,6 @@ to re-read them after this practice session!
 
 ## Readings
 
-From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/) chapter 8.5 -- 8.∞.
+From Think Python, read chapter:
 
+* 8.5 -- 8.11 More strings

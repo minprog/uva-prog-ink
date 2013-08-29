@@ -10,4 +10,9 @@ re-read them over the weekend.
 
 ## Readings
 
-From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/) read the chapters 1, 2, 5.1 -- 5.7, and 7.1 -- 7.4.
+From Think Python, read chapters:
+
+* 1. The way of the program
+* 2. Variables, expressions and statements
+* 5.1 -- 5.7 Conditionals
+* 7.1 -- 7.4 Iteration

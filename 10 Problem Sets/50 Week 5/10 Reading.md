@@ -8,4 +8,6 @@ to re-read them after this practice session!
 
 ## Readings
 
-From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/) chapters 6.5 -- 6.∞.
+From Think Python, read chapters:
+
+* 6.5 -- 6.9 More recursion

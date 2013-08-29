@@ -12,4 +12,10 @@ to re-read them after this practice session!
 
 ## Readings
 
-From [*How to think like a computer scientist* (Allen Downey)](http://www.greenteapress.com/thinkpython/) chapters 5.8 -- 5.∞, chapter 8.1 -- 8.4, 11, 12, and 14.1 -- 14.5.
+From Think Python, read chapters:
+
+* 5.8 -- 5.12 Recursion
+* 8.1 -- 8.4 Strings
+* 11 Dictionaries
+* 12 Tuples
+* 14.1 -- 14.5 Files
