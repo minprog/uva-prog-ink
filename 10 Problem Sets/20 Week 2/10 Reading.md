@@ -17,9 +17,9 @@ to re-read them after this practice session!
 
 From Think Python, read chapters:
 
-* 3. Functions
+* 3 Functions
 * 6.1 -- 6.5 Fruitful functions
 * 7.5 -- 7.7 Algorithms
-* 10. Lists
+* 10 Lists
 * Appendix A Debugging
 

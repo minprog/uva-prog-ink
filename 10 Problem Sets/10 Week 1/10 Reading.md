@@ -12,7 +12,7 @@ re-read them over the weekend.
 
 From Think Python, read chapters:
 
-* 1. The way of the program
-* 2. Variables, expressions and statements
+* 1 The way of the program
+* 2 Variables, expressions and statements
 * 5.1 -- 5.7 Conditionals
 * 7.1 -- 7.4 Iteration
