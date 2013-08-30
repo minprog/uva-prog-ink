@@ -1,14 +1,13 @@
 # Questions
 
-These exercises do not ask you to create a new Python program, but instead ask you to read some code and predict the answer. Sometimes the questions are about other things related to programming.
-
-## Before you start
-
-Sign in to the website *before* you start filling in these forms. If you do, your answers will be saved and you can submit your answers when the day is done.
+These exercises do not ask you to create a new Python program, but instead ask
+you to read some code and predict the answer. Sometimes the questions are about
+other things related to programming.
 
 ## Exercise 1.9 – Variable Names
 
-The Python interpreter has strict rules for variable names. Which of the following are legal Python names? If the name is not legal, state the reason.
+The Python interpreter has strict rules for variable names. Which of the
+following are legal Python names? If the name is not legal, state the reason.
 
 |expression |legal?                             |
 |-----------|-----------------------------------|
