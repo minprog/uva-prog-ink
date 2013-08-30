@@ -1,4 +1,4 @@
-# Cursusconderdelen
+# Cursusonderdelen
 
 Dit ben je per week kwijt aan dit vak:
 
