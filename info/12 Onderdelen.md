@@ -103,7 +103,7 @@ de tweede week een verbeterde versie van het programma kunt maken.
 
 Ook bij het project is de beoordeling op de criteria van de problem sets.
 
-### Tentamen
+## Tentamen
 
 Omdat het mogelijk is bijna ongemerkt mee te liften met een medestudent tijdens
 het maken van de practica, checken we met het tentamen nog een keer of je
