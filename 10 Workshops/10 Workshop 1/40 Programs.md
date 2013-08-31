@@ -48,8 +48,7 @@ code). Print out R. You can check to be sure your code is working by looking at
 [timeanddate.com](http://www.timeanddate.com/calendar/).
 
 Run some test cases: try today's date, your birth date, and whatever else
-interests you! Feel free to submit your `zellers.py` code if you wish, we'll
-certainly take a look at it if you do.
+interests you!
 
 ## Secret Messages
 
