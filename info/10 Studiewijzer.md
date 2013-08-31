@@ -85,8 +85,9 @@ dus. Niettemin denken we dat elke student deze cursus kan halen.
 
 ### Eindcijfer
 
-Het eindcijfer is gebaseerd op de cijfers van de problem sets. Het tentamen
-telt dus niet mee in de berekening, maar moet wel voldoende gemaakt worden.
+Het eindcijfer is gebaseerd op de cijfers van de workshops, de problem sets en
+het project. Het tentamen telt dus niet mee in de berekening, maar moet wel
+voldoende gemaakt worden.
 
 ## Literatuur
 
@@ -98,4 +99,4 @@ keer aan het begin van de week doet en gedurende de week nog eens.
 > **Think Python**  
 > Green Tea Press 2013
 
-Dit boek is tegen kostprijs verkrijgbaar bij de onderwijsbalie.
+Dit boek is voor 5 euro verkrijgbaar bij de onderwijsbalie.
