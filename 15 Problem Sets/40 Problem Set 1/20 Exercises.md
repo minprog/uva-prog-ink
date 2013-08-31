@@ -147,9 +147,10 @@ than we anticipated.
 
 ## Getting Started
 
-1. Run `homework4a.py`, without making any modifications to it, in order to
+1. Run `wordgames
+2. .py`, without making any modifications to it, in order to
    ensure that everything is set up correctly. The code we have given
-   you loads a list of valid words from a file and then calls the
+   you loads a list of valid loads from a file and then calls the
    `play_game` function.  You will implement the functions it needs in
    order to work. If everything is okay, after a small delay, you
    should see the following printed out:
@@ -161,7 +162,7 @@ than we anticipated.
    change the value of the `WORDLIST_FILENAME` constant (defined near the top of
    the file) to the complete pathname for the file `words.txt` (This will vary
    based on where you saved the file).
-2. The file `homework4a.py` has a number of already implemented functions
+2. The file `wordgames.py` has a number of already implemented functions
    you can use while writing up your solution. You can ignore the code
    between the following comments, though you should read and
    understand everything else:
@@ -184,13 +185,13 @@ than we anticipated.
    will help you debug your code.
 
 We have provided several test functions to get you started. As you
-make progress on the problem set, run `test_homework4a.py` as you go.
+make progress on the problem set, run `test_wordgames.py` as you go.
 
 If your code passes the unit tests you will see a `SUCCESS` message;
 otherwise you will see a `FAILURE` message. These tests aren’t
 exhaustive.  You may want to test your code in other ways too.
 
-If you run test_homework4a.py using the provided homework4a.py skeleton, you
+If you run test_wordgames.py using the provided wordgames.py skeleton, you
 should see that all the tests fail. These are the provided test
 functions:
 
@@ -208,7 +209,7 @@ the score for a single word. The function `get_word_score` should
 accept a string of lowercase letters as input (a word) and return the
 integer score for that word, using the game’s scoring rules.
 
-Fill in the code for `get_word_score` in `homework4a.py`:
+Fill in the code for `get_word_score` in `wordgames.py`:
 
     def get_word_score(word, n):
         """
@@ -230,14 +231,14 @@ Fill in the code for `get_word_score` in `homework4a.py`:
 You may assume that the input word is always either a string of
 lowercase letters, or the empty string `""`. You will want to use the
 `SCRABBLE_LETTER_VALUES` dictionary defined at the top of
-`homework4a.py`. You should not change its value.
+`wordgames.py`. You should not change its value.
 
 Do **not** assume that there are always 7 letters in a hand! The
 parameter `n` is the number of letters required for a bonus score (the
 maximum number of letters in the hand).
 
 Testing: if this function is implemented properly, and you run
-`test_homework4a.py`, you should see that the `test_get_word_score()` tests
+`test_wordgames.py`, you should see that the `test_get_word_score()` tests
 pass.
 
 Also test your implementation of `get_word_score`, using some
@@ -275,7 +276,7 @@ method never raises a `KeyError`.
 ### Converting words into dictionary representation
 
 One useful function we’ve defined for you is `get_frequency_dict`, defined near
-the top of `homework4a.py`. When given a string of letters as an input, it
+the top of `wordgames.py`. When given a string of letters as an input, it
 returns a dictionary where the keys are letters and the values are the number of
 times that letter is represented in the input string.  For example:
 
@@ -443,8 +444,8 @@ values for `HAND_SIZE` with your program.
 
 ## Problem 6. Computer word choose
 
-**This is all dependent on your functions from homework4a.py, so be sure to
-  complete homework4a.py before working on homework4b.py**
+**This is all dependent on your functions from wordgames.py, so be sure to
+  complete wordgames.py before working on computer.py**
 
 You decide to teach your computer (SkyNet) to play the game you just
 built so that you can prove once and for all that computers are

@@ -1,5 +1,5 @@
-name: week4
+name: p1
 required:
   - hangman.py
-  - homework4a.py
-  - homework4b.py
+  - wordgames.py
+  - computer.py

@@ -1,4 +1,4 @@
-name: week2
+name: w2
 form: true
 required:
     - homework2.py
