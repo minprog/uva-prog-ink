@@ -3,7 +3,7 @@
 Here are two programs that you will write from scratch, in order to practice
 for weeks 4 and on, where you'll be writing larger programs all the time.
 
-# Zeller's Algorithm
+## Zeller's Algorithm
 
 Zeller's algorithm computes the day of the week on which a given date will fall
 (or fell). In this exercise, you will write a program to run Zeller's algorithm
@@ -51,7 +51,7 @@ Run some test cases: try today's date, your birth date, and whatever else
 interests you! Feel free to submit your `zellers.py` code if you wish, we'll
 certainly take a look at it if you do.
 
-# Secret Messages
+## Secret Messages
 
 This exercise is tricky! Be sure to ask the assistants for help whenever you
 need it!
