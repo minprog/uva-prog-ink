@@ -1,39 +1,40 @@
 # Studieschema
 
-## Week 1 -- Problem Set 1
+## Week 1
 
-* Reading
-* Exercises
+* Reading and annotations homework
+* Workshop 1
 
-## Week 2 -- Problem Set 2
+## Week 2
 
-* Reading
-* Exercises
+* Reading and annotations homework
+* Workshop 2
 
-## Week 3 -- Problem Set 3
+## Week 3
 
-* Reading
-* Exercises
+* Reading and annotations homework
+* Workshop 3
 
-## Week 4 -- Problem Set 4
+## Week 4
 
-* Reading
-* Exercises
+* Reading and annotations
+* Problem Set 1
 
-## Week 5 -- Problem Set 5
+## Week 5
 
-* Reading
-* Exercises
+* Reading and annotations
+* Problem Set 2
 
-## Week 6 -- Project
+## Week 6
 
-* *Eerste practicumdag:* Design document
-* Project Beta
+* Reading and annotations
+* Project design document
+* Project beta version delivered
 
-## Week 7 -- Project
+## Week 7
 
-* Project Final
+* Project final version delivered
 
-## Week 8 -- Tentamen
+## Week 8
 
-* Tentamen
+* Quiz
