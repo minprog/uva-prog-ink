@@ -1,6 +1,6 @@
 # Studiewijzer
 
-*Versie: September 2013 (1.0)*
+*Versie: September 2013 (1.1)*
 
 Welkom bij deze cursus Inleiding Programmeren. We gaan programmeren in Python,
 een eenvoudige taal met vele mogelijkheden. Je leert over de basis van het
@@ -74,6 +74,8 @@ thuis op de bank.
 Je krijgt een eindcijfer voor dit vak als je:
 
 * alle uren aanwezig bent geweest tijdens de practica;
+* in de eerste drie weken aantekeningen hebt besproken met de assistent;
+* alle workshops tijdens het practicum hebt laten aftekenen;
 * alle benodigde programma's op tijd hebt ingeleverd;
 * een voldoende hebt gehaald voor het tentamen.
 

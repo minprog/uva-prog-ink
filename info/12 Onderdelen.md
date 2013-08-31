@@ -10,35 +10,69 @@ rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu
 eenmaal. Als je nog niet eerder geprogrammeerd hebt moet je even over een
 drempel heen voordat je het begint te begrijpen.
 
-### Computerpractica
+## Workshops
+
+Tijdens de eerste drie weken van het vak volg je *workshops* waarin je met
+redelijk kleine opdrachten de basis van Python en programmeren leert. Je laat
+het eindresultaat zien aan de assistent, die je code bekijkt en wat feedback
+geeft, en vervolgens je opdracht aftekent. De assistent geeft feedback over de
+rubrieken zoals hieronder vermeld onder "Problem Sets".
+
+## Huiswerk
+
+Vóór aanvang van elke workshopweek moet je een aantal hoofdstukken uit het boek
+lezen. Hierin moet je aantekenen welke onderdelen je moeilijk te begrijpen
+vindt, en welke vragen in je opkomen bij het lezen. Deze aantekeningen zullen
+we bekijken en bespreken. Daarom moet je je syllabus elke week meenemen. De
+deadline is vrijdag 17:00 voor alle studenten.
+
+## Problem Sets
+
+Er zijn twee *problem sets* waarin je wat grotere programma's gaat uitwerken en
+invullen. De bedoeling is dat je enigszins zelfstandig de opdrachten leert
+lezen en begrijpen, en vervolgens een oplossing formuleren en implementeren.
 
 Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 
-* omvang
+* Omvang --- heb je alles geprobeerd?
+
     0. niet of leeg ingeleverd
 	1. onaf
 	2. basis staat maar niet alles afgemaakt
-	3. precies het minimum
+	3. precies het minimum zoals in de opdracht
 	4. extra's geprobeerd
-	5. veel extra's
-* correctheid (met dien verstande dat het in principe correct moet werken)
-	1. onvoldoende, niet goed werkend te krijgen
-	2. problemen in de werking die snel op te lossen zijn
+	5. meer dan in de opdracht stond
+	{: start="0"}
+
+* Correctheid --- doet het programma wat de gebruiker mag verwachten?
+
+	0. echt niet werkend te krijgen voor ons
+	1. kost teveel tijd om werkend te krijgen
+	2. problemen in de werking, waarschijnlijk een vergissing
 	3. werkt, maar niet altijd goede antwoord
-	4. goede antwoord, ook voor randgevallen
-	5. perfectie, foutieve invoer afgevangen
-* stijl
-	1. onleesbaar voor assistent
-	2. te weinig geprobeerd
-	3. paar kleine problemen maar leesbaar
-	4. zeer goed leesbaar
-	5. perfectie, niets op aan te merken
-* ontwerp
+	4. goede uitvoer voor alle te verwachten invoer
+	5. perfectie, ook foutieve invoer afgevangen
+	{: start="0"}
+
+* Ontwerp --- hoe ordelijk is je code?
+
+    0. we kwamen er helemaal niet uit
 	1. veel onnodig ingewikkelde constructies, vermijden bepaalde mogelijkheden
 	2. ingewikkeld, maar toont kennis van mogelijkheden
-	3. geen ingewikkelde constructies, details misschien inefficiënt
+	3. ongecompliceerd, details misschien inefficiënt
 	4. goed gebruik van de mogelijkheden die te taal biedt
-	5. korte functies, goed gebruik van modules of andere abstracties, perfectie
+	5. perfectie, je hebt erover gelezen en het uitstekend toegepast
+	{: start="0"}
+
+* Stijl --- hoe leesbaar is je code?
+
+    0. volledig onleesbaar voor ons
+	1. soms is er iets moois, maar over het algemeen niet goed leesbaar
+	2. elementen uit de stijlgids zijn toegepast maar niet consistent
+	3. leesbaar en consistent, misschien nog een enkel probleem
+	4. helemaal consistent, afwijkingen van de stijlgids alleen goed beredeneerd
+	5. perfectie, veel eigen principes maar volledig consistent
+	{: start="0"}
 
 Het cijfer voor een problem set wordt vaak bepaald door middel van de volgende
 formule:
@@ -56,10 +90,23 @@ hoe je prestaties groeien.
 Het is prima om vóór je instuurt de assistent nog even te vragen naar je opgave
 te kijken en verbeteringen aan te brengen.
 
+## Project
+
+Het doel van het project is om je zelfstandig een idee uit te laten werken voor
+een programma. Zo leer je begrijpen welke kennis en vaardigheden je nodig hebt
+om dit te doen. Let op dat het een oefening is! Perfectie is absoluut niet
+vereist.
+
+In de eerste week ga je een technisch ontwerp maken van je programma en daarvan
+een eerste versie implementeren. Vervolgens geven we je feedback waarmee je in
+de tweede week een verbeterde versie van het programma kunt maken.
+
+Ook bij het project is de beoordeling op de criteria van de problem sets.
+
 ### Tentamen
 
 Omdat het mogelijk is bijna ongemerkt mee te liften met een medestudent tijdens
 het maken van de practica, checken we met het tentamen nog een keer of je
 zelfstandig de leerdoelen van het vak gehaald hebt. Je moet minimaal een 5.5
-halen. Als je het tentamen niet haalt, krijg je een NAV (niet aan de eisen
-voldaan) en kun je dit éénmalig herkansen.
+halen. Als je het practicum hebt gehaald, maar het tentamen niet, krijg je een
+NAV (niet aan de eisen voldaan) en kun je het tentamen éénmalig herkansen.
