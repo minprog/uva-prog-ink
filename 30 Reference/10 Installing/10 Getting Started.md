@@ -1,13 +1,11 @@
-# Getting started: Python and IDLE
-
-This handout will cover how to set up Python and introduce you to IDLE, the
-Python development environment we will be using throughout this course.
+Here, we will cover how to set up Python and introduce you to IDLE, the Python
+development environment we will be using throughout this course.
 
 ## Setting up Python on Windows
 
-Python should be set up correctly on the Windows machines. Find "Python 2.7" in
-the Start menu. This should start up the Python development environment named
-*IDLE*.
+Python should be set up correctly on the faculty Windows machines. Find "Python
+(x,y)" in the Start menu and choose to start **IDLE**. This should start up the
+Python development environment.
 
 ## On your own machine
 

@@ -1,5 +1,3 @@
-# Designgids
-
 ## while True
 
 In Python, it is sometimes tempting to write code like this:

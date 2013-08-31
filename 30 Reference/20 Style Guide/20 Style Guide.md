@@ -1,37 +1,60 @@
-# Stijlgids
+As readers of your assignments we'll notice all too soon if it is
+well-readable. It influences how quickly we are able to understand the meaning
+of the program.
 
-Als nakijkers van jouw practicum merken we al snel of iets goed leesbaar is of niet. Begrijpen we snel wat je code doet? Ook in de praktijk blijkt het handig om goed leesbare code te schrijven. Voor een ander, die je code moet uitbreiden, of voor jezelf, als je een tijdje niet naar de code gekeken hebt.
+Not only in class but also in practice it proves to be convenient to write
+well-readable code. For the sake of someone else having to read your code, and
+definitely for yourself, trying to debug the code after a week or so.
 
-Er is niet één correcte manier om je code te schrijven. Maar je kunt zeker een hoop fout (of laten we zeggen, onleesbaar) doen. Bij dit vak eisen we niet dat je je aan een vastgelegde stijl houdt, maar we raden je ten strengste aan om de conventies hieronder in acht te nemen, tenzij je jouw assistent kunt overtuigen dat jouw manier net zo goed is, of beter.
+There is not one correct way to write code. Still, there's a lot you can do
+wrong (or should we say: unreadable). In this course, we require you to adhere
+to the rules in this style guide. That said, you are free to change some rules,
+provided that you apply the rules consistently and annotate atop your code what
+rule you have changed.
 
-## Commentaar
+## Comments
 
-Teveel commentaar is fout. Te weinig commentaar is fout. Maar hoeveel is dan goed? Een vuistregel is om je code op te delen in kleine blokken -- van elk een paar regels code -- en elk blok van een regel commentaar te voorzien.
+Too much commenting is wrong. Too little commenting is also wrong! So how do
+you do this right? Well, as a rule of thumb, try to divide your code into small
+blocks of a few lines each, and add one line of comments above it.
 
-Eén van de volgende twee vragen is meestal zeer relevant om te beantwoorden:
+What should you write in your comments? Try to answer relevant questions:
 
-* Wat doet dit blok code?
-* Waarom is het op deze manier geïmplementeerd?
+* What is the function of the whole block?
+* Why is it implemented like that exactly?
 
-###Voorbeeld
+### Example 1
 
-Variabelenamen leggen vaak al een beetje uit waarvoor ze dienen, en maken je code leesbaarder. En zo leg je dan uit wat je *precies* opslaat in de variabele:
+Variables are often self-explanatory because of their well-chosen name. Still,
+names can get long if you want to be precise, so a comment can explain a bit
+more:
 
 {: .language-python}
     # compute student's average
     average = sum / QUIZZES + 0.5
 
-Middenin je code schrijf je geen volzinnen, maar om het leesbaar te houden zet je wel netjes een spatie na de `#`.
+(So now we know it is not just an average, but the average grade of a student.)
 
-Dus niet zo:
+### Example 2
+
+In the middle of your code you shouldn't write whole sentences, but rather
+small annotations. Even so, they should be properly formatted in your language
+of choice, including spacing and punctuation.
+
+Don't do this:
 
 {: .language-python}
     #compute student's average
+
+But do it like this:
+
+{: .language-python}
     # Compute student's average.
 
-### Bovenaan je Python-bestand
+### Example 3
 
-Start altijd met de commentaarregels zoals voorgeschreven in de opdracht. Je mag ook nog iets toevoegen over de algehele werking van het programma; wat is het doel?
+Atop your Python source code, add a comment block summarizing the goal of the
+program (what does it do for the user?), and also your name.
 
 {: .language-python}
     # Problem Set 1
@@ -41,95 +64,117 @@ Start altijd met de commentaarregels zoals voorgeschreven in de opdracht. Je mag
     #
     # This program calculates the average values of a series
     # of numbers input by the user.
-    
-    ... your code goes here ...
 
-### Lange regels commentaar
+### Example 4
 
-Let op de omschrijving van het programma in het voorbeeld hierboven. De omschrijving paste niet meer op één regel, dus is een nieuwe regel toegevoegd, ook weer beginnend met een `#`.
+Have another look at the summary in the comments of Example 3. The summary is
+fairly long and does not fit a comfortable line's length. People read most
+comfortably when lines are about 45-90 characters in length (this also applies
+to books and other texts!).
 
-Vermijd regels langer dan 79 tekens; zo weet je zeker dat het op elk scherm en op papier goed weergegeven kan worden.
+In order to split longer comments into multiple lines, just add another line
+starting with a `#`.
 
-## Indentatie
+## Indentation
 
-Indentatie is het toevoegen van witruimte aan het begin van een regel om structuur zichtbaar te maken. Dat is in Python niet alleen voor de leesbaarheid: in veel gevallen is het in Python verplicht witruimte aan te brengen. Dit moet voor de leesbaarheid wel consequent gebeuren.
+Indentation means adding white space to the very start of a line, in order to
+show structure. In most programming languages, this is a *convention* to
+improve consistency and readability. In Python, indentation is compulsory!
 
 {: .language-python}
     def sum(x, y):
         result = x + y
         return result
 
-Gebruik zoals hier minimaal **4 spaties** om het onderscheid duidelijk te houden.
+### Tabs and spaces
 
-### Tabs en spaties
+It is very important to use either tabs or spaces for indentation. Do *not* mix
+tabs and spaces. Other programmers will not like it at all.
 
-Gebruik voor witruimte alleen spaties of alleen tabs, en niet door elkaar. Een tab wordt namelijk op diverse computers als een verschillend aantal spaties weergegeven. Als het er netjes zo uitziet zoals hierboven, kan het er op een andere computer zo uitzien:
+Say you have your computer set at: 1 tab equals 4 spaces. Another programmer
+can change this setting to 8 spaces. But now there's a severe problem in
+understanding the program:
 
 {: .language-python}
     def sum(x, y):
         result = x + y     # vier spaties
             return result  # 1 tab is hier 8 spaties geworden
 
-Bovendien zal de code dan niet meer goed werken in Python.
+Luckily for you, in Python you can't really make this mistake inadvertently,
+because Python will complain hard when you do this.
 
-Naarmater je functies wat langer worden leidt dit tot grotere onleesbaarheid door inconsequentie. Gebruik dus bij voorkeur precies 4 spaties, zoals de conventie is in Python-code.
+### Compulsory (compulsive) indentation
 
-### Verplichte indentatie
-
-In Python kun je er doorgaans vanuit gaan dat na elke regel eindigend op een `:`, de volgende regel met een extra niveau indentatie moet worden geschreven. Dat geldt voor alle volgende regels die ondergeschikt zijn aan de regel die met een `:` eindigt:
+In Python it is quite easy to know *when* you should indent a line. After a
+line that ends in a `:` (colon), all dependent lines should be indented.
 
 {: .language-python}
-    # onderstaande functie bestaat uit vier regels of instructies
+    # This function consists or 4 lines of code and 1 line of commenting.
     def sum(arrayOfNumbers):
         result = 0
-        # onderstaande for-loop bestaat uit één regel die herhaald wordt
+        # This for loop contains exactly 1 line that is repeated.
+        # The next line after is unindented.
         for number in arrayOfNumbers:
             result = result + number
         return result
 
-## Naamgeving
+## Naming stuff
 
-Veel elementen in je Python-programma kunnen een *naam* krijgen, waaronder functies en variabelen.
+Lots of elements in your Python programs will have a *name*: mostly functions
+and variables.
 
-### Functies
+### Functions
 
-Functienamen mogen zo lang zijn als je wilt, maar moeten geschreven worden met underscores tussen de woorden:
+Function names may be as long as you want. You should separate English words
+with underscores like this:
 
 {: .language-python}
     def user_average_this_year():
+        ...
 
-### Variabelen
+### Variables
 
-Variabelenamen zijn doorgaans wat korter dan functienamen, maar één of twee woorden bevordert de leesbaarheid. Er is geen enkele reden om namen af te korten!
+Variable names are preferably a tad shorter than function names, because they
+are used more frequently. Keep those names to one or two words.
 
-Vanzelfsprekend kun je gebruikelijke symboliek uit de wiskunde overnemen als je een wiskundig probleem aanpakt. De meeste andere probleemdomeinen kennen dergelijke symboliek niet en vereisen langere namen.
+There is no good reason to shorten names (unless you are an *extremely* bad
+typist). It is allowed, however, to use symbols derived from the domain of your
+program, like mathematics.
 
 {: .language-python}
-    d = 0.002                   # delta voor een benaderingsfunctie
-    resterend_pensioen -= 2000  # geen commentaar nodig
+    d = 0.002                   # d is for "delta", which is a difference in mathematics
+    remaining_pension -= 2000   # clear name, doesn't need any comment
 
-## Andere witruimte
+## White space for readability
 
-Net als bij andere media waar teksten geschreven worden om te lezen, voegen we bij code vaak witruimte toe om te leesbaarheid te vergroten. Indentatie is daar een voorbeeld van, maar het kan op nog een aantal manieren.
+Just as in other media that revolve around text, blank lines and white space
+may be added to increase clarity of structure, and thus, readability.
 
-### Witregels tussen blokken en functies
+### Blank lines
 
-Als je je code opdeelt in kleine blokken, met bijvoorbeeld een regeltjes commentaar erboven, voeg je boven dat commentaar een witregel toe.
+When you split some code into blocks, as described above in "Comments", add a
+blank line atop each comment in order to split the code into logical blocks.
+
+Here's three very small blocks of code, each responsible for a particular
+function of the program:
 
 {: .language-python}
 	# user input
-	user_input = input("Please enter a number: ")
+	number = input("Please enter a number: ")
 	
 	# calculations - uses a complex loop to handle special cases
-	while(user_input > 0):
-		user_input -= 1
+	while(number > 0):
+		number -= 1
 	
-	# output - might not print zero if user put in a float
+	# output - might not print zero (e.g., if user put in a float)
 	print user_input
 
-### Spaties rondom operators
+### Spaces around operators
 
-Operators zijn zeer compact genaamde functies, zoals `+`, `==`, `%` of `?`. Code die gebruikt maakt van operators is leesbaar te houden door een spatie in te voegen vóór en achter de operator:
+Operators are compactly named functions, like `+`, `==`, `%` and `?`. You
+should ornament your expressions with spaces in order to make them easy to read.
+
+Simply add one space before, and one space after each operator:
 
 {: .language-python}
     i = i + 1

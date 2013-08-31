@@ -3,12 +3,12 @@ out the code in your Python interpreter as often as possible.
 
 # Exercise 1.0 – Installing Python
 
-Follow the instructions on installing Python and IDLE in the [Getting Started]
+Follow the instructions on installing Python and IDLE in the [Reference]
 section. Be sure to install Python version 2.7.x! Ask an assistant for help if
 you run into any trouble. Before continuing, play around with the Python shell
 a bit and explore how you can use it as a calculator.
 
-[Getting Started]: /reference/getting-started
+[Reference]: /reference/installing
 
 # Exercise 1.1 – Hello, world!
 
