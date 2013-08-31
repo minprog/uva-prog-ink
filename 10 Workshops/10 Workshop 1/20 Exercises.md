@@ -1,7 +1,9 @@
+# Exercises
+
 These exercises will take you on a trip through Python. You are supposed to try
 out the code in your Python interpreter as often as possible.
 
-# Exercise 1.0 – Installing Python
+## Exercise 1.0 – Installing Python
 
 Follow the instructions on installing Python and IDLE in the [Reference]
 section. Be sure to install Python version 2.7.x! Ask an assistant for help if
@@ -10,7 +12,7 @@ a bit and explore how you can use it as a calculator.
 
 [Reference]: /reference/installing
 
-# Exercise 1.1 – Hello, world!
+## Exercise 1.1 – Hello, world!
 
 Recall that a program is just a set of instructions for the computer to
 execute. Let's start with a basic command `print x` which prints the value of
@@ -51,7 +53,7 @@ look similar to this:
 When you run your code, it first prints the line `>>> ===== RESTART =====`, then
 runs your code underneath that line. See?
 
-# Exercise 1.2 – Printing
+## Exercise 1.2 – Printing
 
 From the course website, download the [homework1.py](homework1.py)
 template. Remember to put your name and section at the top. If you don't we'll
@@ -72,7 +74,7 @@ Expected output:
 	--------
 	  |  |
 
-# Exercise 1.3 – Variables
+## Exercise 1.3 – Variables
 
 Recall that variables are containers for storing information. For example,
 
@@ -113,7 +115,7 @@ tic-tac-toe board from exercise 1.2, but which uses variables to cut down on the
 amount of typing you have to do. **Hint**: how many different variables should
 you need?
 
-# Exercise 1.4 – Operators/Order of Operation
+## Exercise 1.4 – Operators/Order of Operation
 
 Python has the ability to be used as a cheap, 5-dollar calculator. In
 particular, it supports basic mathematical operators `+`, `-`, `*`, `/` as well
@@ -180,7 +182,7 @@ as `'Hi' + 5` or `'5 + 7` will not work.
   different values (due to parenthesization). Save each as the value of a
   variable, then print the variables.
 
-# Exercise 1.5 – User input
+## Exercise 1.5 – User input
 
 Do this exercise in `homework1.py`. In this exercise, we will ask the user for
 his/her first and last name, and date of birth, and print them out
@@ -221,7 +223,7 @@ will have the output
 
 	October 20 1977
 
-## Pretty printing
+### Pretty printing
 
 **Optional**: Now, for something completely different... a discussion on how to
   print strings, most prettily...
@@ -241,13 +243,17 @@ you'd have to convert the `int` to a `string`. We'll cover this more in-depth
 later on, when we get to strings, but you may want to play with string
 concatenation operations now to get everything to look its prettiest.
 
-# Intermezzo: Questions
+--------------------------------------------------------------------------------
+
+## Intermezzo: Questions
 
 At this point, we suggest completing questions 1.9--1.11 to cement your
 understanding of these topics. Just go to the next tab, answer the questions
 and return here to code some more.
 
-# Exercise 1.6 – New Operators
+--------------------------------------------------------------------------------
+
+## Exercise 1.6 – New Operators
 
 Open up IDLE and play around with the operators from the book (look them up in
 the index). Make sure that you understand how to use them and what they are
@@ -289,12 +295,16 @@ operators in your interpreter window before moving on.
 	>>> print y
 	11
 
-# Intermezzo: Questions
+--------------------------------------------------------------------------------
+
+## Intermezzo: Questions
 
 We strongly suggest you finish all questions now, before continuing on with the
 next exercise.
 
-# Exercise 1.7 – Rock, Paper, Scissors
+--------------------------------------------------------------------------------
+
+## Exercise 1.7 – Rock, Paper, Scissors
 
 In this exercise, you are going to practice using conditionals (`if`, `elif`,
 `else`). You will write a small program that will determine the result of a
@@ -354,7 +364,7 @@ is still part of the previous line of code, e.g.
 
 Use whichever form you feel comfortable using.
 
-# Exercise 1.8 – For & While Loops
+## Exercise 1.8 – For & While Loops
 
 Create a new file called `loops.py` and use it for all parts of this
 exercise. Remember the difference between input and raw input? If not, look at

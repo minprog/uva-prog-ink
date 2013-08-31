@@ -1,3 +1,8 @@
+# Programs
+
+Here are two programs that you will write from scratch, in order to practice
+for weeks 4 and on, where you'll be writing larger programs all the time.
+
 # Zeller's Algorithm
 
 Zeller's algorithm computes the day of the week on which a given date will fall

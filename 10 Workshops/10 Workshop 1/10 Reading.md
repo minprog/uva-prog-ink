@@ -1,12 +1,11 @@
 # The first week
 
-This *Python Practice* section will be your first day of Python programming.
-Today, you'll learn about communicating with the user, and about strings, loops
-and `if` statements.
+This workshop will guide your first week of Python programming. You'll learn
+about communicating with the user, and about strings, loops and `if` statements.
 
 Please prepare for this day using the readings below. They will not always
-immediately make sense without practice, but that's no problem. You may want to
-re-read during the week.
+immediately make sense without practice, but that's no problem. Re-read them
+during the week, and you will start to see the light.
 
 ## Homework
 
