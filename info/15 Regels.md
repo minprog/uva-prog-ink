@@ -1,6 +1,7 @@
 # Samenwerken, fraude en plagiaat
 
-Samenwerken tijdens dit vak is niet toegestaan. Dit vak heeft als doel jouw
+Samenwerken tijdens dit vak is meestal niet toegestaan (als dit is toegestaan
+dan wordt het expliciet bij de opdracht vermeld). Dit vak heeft als doel jouw
 persoonlijke programmeervaardigheid te ontwikkelen. Bij vervolgvakken is het
 vaak wél mogelijk om samen te programmeren.
 
@@ -34,6 +35,7 @@ uitwerking van internet, dan zijn er twee mogelijkheden.
   zelfstandig maken van de opgaven en wordt je inzending afgekeurd. Omdat dit
   meestal na de deadline is betekent dat doorgaans dat je het vak dit jaar niet
   kunt afronden.
+
 * Er is geen bronvermelding: in dat geval rapporteren we aan de examencommissie
   welke inzendingen overeenkomen, waarna de commissie beslist over te nemen
   maatregelen.

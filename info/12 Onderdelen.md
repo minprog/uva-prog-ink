@@ -2,13 +2,20 @@
 
 Dit ben je per week kwijt aan dit vak:
 
-* 3 computerpractica van 4 uur
-* thuis lezen, leren en een beetje programmeren: 9 uur
+* 12 uur computerpracticum
+* 9 uur thuis lezen, leren en een beetje programmeren
 
 Dat betekent een wekelijkse studielast per week van gemiddeld 21 uur. Hou er
 rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu
 eenmaal. Als je nog niet eerder geprogrammeerd hebt moet je even over een
 drempel heen voordat je het begint te begrijpen.
+
+## Huiswerk
+
+Vóór aanvang van elke workshopweek moet je een aantal hoofdstukken uit het boek
+lezen. Hierin moet je aantekenen welke onderdelen je moeilijk te begrijpen
+vindt, en welke vragen in je opkomen bij het lezen. Deze aantekeningen zullen
+we bekijken en bespreken. Daarom moet je je syllabus elke week meenemen.
 
 ## Workshops
 
@@ -17,14 +24,6 @@ redelijk kleine opdrachten de basis van Python en programmeren leert. Je laat
 het eindresultaat zien aan de assistent, die je code bekijkt en wat feedback
 geeft, en vervolgens je opdracht aftekent. De assistent geeft feedback over de
 rubrieken zoals hieronder vermeld onder "Problem Sets".
-
-## Huiswerk
-
-Vóór aanvang van elke workshopweek moet je een aantal hoofdstukken uit het boek
-lezen. Hierin moet je aantekenen welke onderdelen je moeilijk te begrijpen
-vindt, en welke vragen in je opkomen bij het lezen. Deze aantekeningen zullen
-we bekijken en bespreken. Daarom moet je je syllabus elke week meenemen. De
-deadline is vrijdag 17:00 voor alle studenten.
 
 ## Problem Sets
 
@@ -79,13 +78,12 @@ formule:
 
 $$"omvang" * (3 * "correctheid" + 2 * "ontwerp" + 1 * "stijl")$$.
 
-Voor elk computerpracticum moet je minimaal een 5 gehaald hebben. Gemiddeld
-moet je minimaal een 5.5 halen. Practica zijn niet te herkansen in verband met
-de tijd die dit kost.
+De deadline is vrijdag 17:00 voor alle studenten.
 
 De bedoeling is dat je tijdens de cursus steeds betere en leesbaardere
-programma's gaat insturen. De schaal staat dus niet helemaal vast: we kijken ook
-hoe je prestaties groeien.
+programma's gaat insturen. De schaal staat dus niet helemaal vast: we kijken
+ook hoe je prestaties groeien. Compenseren van voldoendes met onvoldoendes is
+dan ook niet direct de bedoeling of mogelijk.
 
 Het is prima om vóór je instuurt de assistent nog even te vragen naar je opgave
 te kijken en verbeteringen aan te brengen.
@@ -107,6 +105,5 @@ Ook bij het project is de beoordeling op de criteria van de problem sets.
 
 Omdat het mogelijk is bijna ongemerkt mee te liften met een medestudent tijdens
 het maken van de practica, checken we met het tentamen nog een keer of je
-zelfstandig de leerdoelen van het vak gehaald hebt. Je moet minimaal een 5.5
-halen. Als je het practicum hebt gehaald, maar het tentamen niet, krijg je een
-NAV (niet aan de eisen voldaan) en kun je het tentamen éénmalig herkansen.
+zelfstandig de leerdoelen van het vak gehaald hebt. Je moet een voldoende
+halen.
