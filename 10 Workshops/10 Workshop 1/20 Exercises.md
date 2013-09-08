@@ -168,9 +168,7 @@ as `'Hi' + 5` or `'5 + 7` will not work.
 
 3.	$$(4 - 7) ^ 3$$
 
-4.	$$root4(-19+100)$$
-
-5.	$$6 mod 4$$
+4.	$$6 mod 4$$
 
 	If you aren't familiar with modular arithmetic, it is pretty
 	straightforward: the modulus operator, in the expression $$x mod y$$, gives

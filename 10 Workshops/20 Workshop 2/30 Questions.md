@@ -1,13 +1,4 @@
-# Questions to answer
-
-## Warm up: recollections
-
-Recall that a string is **immutable**, while a list is **mutable**. What does
-this mean? Research it with your neighbor!
-
-<textarea name="a[2-11]"></textarea>
-
-## String operations
+# List and string operations
 
 String operators might be a little less intuitive than those on numbers. This
 exercise will give you a chance to practice those. Given the following 
@@ -30,9 +21,9 @@ get stuck).
 |`now[4]`                             |<input name="a[2-12-6]" type="text">|
 |`look*2 + look[:-1] + now + look[-1]`|<input name="a[2-12-7]" type="text">|
 
-For more on strings, see [the Python docs](http://docs.python.org/release/2.6.6/library/stdtypes.html#string-methods).
+For more on strings, see [the Python docs](http://docs.python.org/release/2.7.5/library/stdtypes.html#string-methods).
 
-## List operations
+# List operations
 
 Say we have this list:
 
@@ -41,7 +32,7 @@ Say we have this list:
 For the following, write the line(s) of code that will emit the given output.
 For each problem there may be more than one correct answer; just give one. 
 
-More on lists: [the Python docs](http://docs.python.org/release/2.6.6/tutorial/datastructures.html).
+More on lists: [the Python docs](http://docs.python.org/release/2.7.5/tutorial/datastructures.html).
 
 1.	Output: `3`
 

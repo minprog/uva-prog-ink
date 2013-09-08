@@ -5,13 +5,13 @@ This week you'll learn about:
 * debugging;
 * functions and methods;
 * returning values;
-* `math`;
+* `random`;
 * plotting; and
 * lists.
 
 Please prepare for this day using the readings below. They will not always 
 immediately make sense without practice, but that's no problem. You may want 
-to re-read them after this practice session!
+to re-read them during your practice session!
 
 ## Readings
 
@@ -22,4 +22,3 @@ From Think Python, read chapters:
 * 7.5 -- 7.7 Algorithms
 * 10 Lists
 * Appendix A Debugging
-

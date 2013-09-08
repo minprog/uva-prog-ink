@@ -1,5 +1,13 @@
 # Questions
 
+## Warm up: recollections
+
+Recall that a string is **immutable**, while a list is **mutable**. What does
+this mean? Research it with your neighbor!
+
+<textarea name="a[2-11]"></textarea>
+
+
 ## 3.9 Mutability
 
 We've learned about many Python data structures (strings, lists, tuples,
