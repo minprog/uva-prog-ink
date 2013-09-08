@@ -99,15 +99,14 @@ are separated by commas. Try this:
 
 # 2.2 Your first function
 
-**Note:** So far we have been using raw_input to get user input. For the
+**Note:** So far we have been using `raw_input` to get user input. For the
 remainder of this course we will move away from this tool, instead writing
 **functions** that take in parameters as opposed to prompting the user for
-input. So, for this and all following problems, do not use raw_input unless
+input. So, for this and all following problems, do not use `raw_input` unless
 explicitly told to do so.
 
 Recall how we define a function using `def`, and how we pass in parameters. In
-homework2.py, paste your code from exercise 1.7 (the rock, paper, scissors
-game). Then, transform it into a function that takes parameters, instead of
+homework2.py, paste your code from exercise 1.7. Then, transform it into a function that takes parameters, instead of
 asking the user for input. Make sure to return your answer, rather than
 printing it.
 
@@ -117,7 +116,7 @@ neighbor what name would be best.
 # Intermezzo: testing
 
 In order to quickly evaluate the code you have written, and to get some
-practice in writing test, you are to include **at least 3** test cases below
+practice in writing tests, you are to include **at least 3** test cases below
 your code for each exercise.
 
 # 2.3 Testing your function
