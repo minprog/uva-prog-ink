@@ -1,6 +1,6 @@
 name: w3
 required:
-    - homework3.py
     - nims.py
-    - palindromes.py
+    - homework3.py
+    - population.py
 form: true
