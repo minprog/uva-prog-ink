@@ -1,29 +1,4 @@
-**Important**: most of these exercises should be put in a file called
-`homework3.py`. You should make sure this file immediately runs and gives
-correct output for every exercise. The same goes for all other files you
-submit.
-
-# 3.0 Quadratic Formula
-
-Write a function roots that computes the roots of a quadratic equation. Check
-for [complex roots] and print an error message saying that the roots are
-complex.
-
-[complex roots]: http://en.wikipedia.org/wiki/Square_root#Square_roots_of_negative_and_complex_numbers
-
-* Hint 1: Your function should take three parameters. What are they?
-* Hint 2: We know the roots are complex when what condition about the
-  discriminant is met?
-
-**Important**. Be sure to use a variety of test cases, that include complex
-roots, real roots, and double roots.
-
-Optional: For an extra challenge, compute and print out the complex roots.
-Python can natively handle complex numbers: [reference].
-
-[reference]: http://infohost.nmt.edu/tcc/help/pubs/python/web/complex-type.html
-
-# 3.1 The game of Nims/Stones
+# 3.0 The game of Nims/Stones
 
 In this game, two players sit in front of a pile of 100 stones. They take
 turns, each removing between 1 and 5 stones (assuming there are at least 5
@@ -32,18 +7,16 @@ stones left in the pile). The person who removes the last stone(s) wins.
 Because this game is interactive, put it in a separate file named `nims.py`.
 Do create a function called `play_nims`, as follows:
 
-	def play_nims(pile, max_stones):
-		"""
-		An interactive two-person game; also known as Stones.
-		@param pile: the number of stones in the pile to start
-		@param max_stones: the maximum number of stones you can take on one turn
-		"""
+    def play_nims(pile, max_stones):
+        """
+        An interactive two-person game; also known as Stones.
+        @param pile: the number of stones in the pile to start
+        @param max_stones: the maximum number of stones you can take on one turn
+        """
 
-Check out the lines of text in between the sets of `'''`, underneath the
+Check out the lines of text in between the sets of `"""`, underneath the
 definition. This is called a *docstring*, and is handy to use to tell other
 programmers what parameters to pass in, and what your program does.
-
-**First**, add a docstring to the function you wrote in the previous problem.
 
 In this problem, you'll write a function to play this game; we've outlined it
 for you. It may seem tricky, so break it down into parts. Like many programs,
@@ -64,11 +37,11 @@ problem.
 If you choose to write two blocks of code, the basic outline of the program
 should be something like this:
 
-	while [pile is not empty]:
-		while [player 1's answer is not valid]:
-			[ask player 1]
-		[execute player 1's move]
-		[same as above for player 2]
+    while [pile is not empty]:
+        while [player 1's answer is not valid]:
+            [ask player 1]
+        [execute player 1's move]
+        [same as above for player 2]
 
 Be careful with the validity checks. Specifically, we want to keep asking
 player 1 for their choice as long as their answer is not valid, BUT we want to
@@ -78,10 +51,10 @@ initially.
 
 When you're finished, test each other's programs by playing them!
 
-# 3.2 Report Card with GPA
+# 3.1 Report Card with GPA
 
 Write a function report card where the user can enter each of his grades,
-after which the program prints out a report card with GPA ([Urban
+after which the program prints out a report card with GPA (*see* [Urban
 dictionary]). Remember to ask the user how many classes he took. Think: why
 would we need to ask this? Could we write the program a different way, which
 wouldn't need that info? Example output is below.
@@ -90,50 +63,54 @@ The function should take a list of tuples as its input.
 
 [Urban dictionary]: http://www.urbandictionary.com/define.php?term=gpa
 
-	>>> report_card([('18.02, 94), ('21H.601', 96), ('8.01', 91), ('5.111', 88)])
-	REPORT CARD:
-	18.02 - 94
-	21H.601 - 96
-	8.01 - 91
-	5.111 - 88
-	Overall GPA  92.25
+    >>> report_card([('18.02, 94), ('21H.601', 96), ('8.01', 91), ('5.111', 88)])
+    REPORT CARD:
+    18.02 - 94
+    21H.601 - 96
+    8.01 - 91
+    5.111 - 88
+    Overall GPA  92.25
 
 Hints: You'll want to use a for loop, and you'll probably want to keep track
 of names and grades seperately; there are a couple ways to do this. Remember,
 add to lists with `my_list.append(elt)`.
 
-# 3.3 Collision Detection of Balls
+# 3.2 More About Dictionaries
 
-Many games have complex physics engines, and one major function of these
-engines is to figure out if two objects are colliding. Weirdly-shaped objects
-are often approximated as balls. In this problem, we will figure out if two
-balls are colliding. You'll need to remember how to unpack tuples; refer to
-the Tuples chapter in *Think Python* or ask an assistant if this is confusing.
+Put these lists in your code:
 
-We will think in 2D to simplify things, though 3D isn't different
-conceptually. For calculating collision, we only care about a ball's position
-in space, as well as its size. We can store a ball's position with the $$(x,y)$$
-coordinates of its center point, and we can calculate its size if we know its
-radius. Thus, we represent a ball in 2D space as a tuple of $$(x, y, r)$$.
+    NAMES = ['Alice', 'Bob', 'Cathy', 'Dan', 'Ed', 'Frank',
+             'Gary', 'Helen', 'Irene', 'Jack', 'Kelly', 'Larry']
 
-To figure out if two balls are colliding, we need to compute the distance
-between their centers, then see if this distance is less than or equal to the
-sum of their radii. If so, they are colliding.
+    AGES = [20, 21, 18, 18, 19, 20, 20, 19, 19, 19, 22, 19]
 
-In `homework3.py`, write a function `ball_collide` that takes two balls as
-parameters and computes if they are colliding; your function should return a
-Boolean saying whether or not the balls are colliding. Optional: For a little
-extra challenge, write your function to work with balls in 3D space. How
-should you represent the balls? You will also need to write your own test
-cases. Be sure to figure out any edge cases you need to test.
+These lists match up, so Alice's age is 20, Bob's age is 21, and so on. Write a
+function combine lists that combines these lists into a dictionary (hint: what
+should the keys, and what should the values, of this dictionary be?). Then,
+write a function people that takes in an age and returns the names of all the
+people who are that age.
 
-# 3.5 Zeller's Algorithm, revisited
+Test your program's functions by running these lines (they are commented at the
+bottom of the code file; uncomment them to use them):
 
-This is similar to the Hacker exercise from Week 1, but in this version we
-will be writing a function that takes parameters, and using dictionaries to
-facilitate "pretty printing" (where the answer is given to the user in a nice
-looking fashion). For the rules of the algorithm, please take a look at the
-description written in the Week 1 section.
+    print 'Dan' in people(18) and 'Cathy' in people(18)
+    print 'Ed' in people(19) and 'Helen' in people(19) and 'Irene' in people(19) and 'Jack' in people(19) and 'Larry'in people(19)
+    print 'Alice' in people(20) and 'Frank' in people(20) and 'Gary' in people(20)
+    print people(21) == ['Bob']
+    print people(22) == ['Kelly']
+    print people(23) == []
+
+All lines should print `True`. The last line is an "edge condition" that we're
+testing; your `people` function should be able to handle this condition (hint:
+what is this condition?) by simply returning an empty list...
+
+# 3.3 Zeller's Algorithm, revisited
+
+This is similar to the *Program* from Week 1, but in this version we will be
+writing a function that takes parameters, and using dictionaries to facilitate
+"pretty printing" (where the answer is given to the user in a nice looking
+fashion). For the rules of the algorithm, please take a look at the description
+written in the Week 1 section.
 
 Calling `zellers("March", 10, 1940)` should give the output: `Sunday`.
 
@@ -157,7 +134,7 @@ Hints:
      the string '90' to the number 90, use `int('90')`; to convert the int 90 to
      the string '90', use `str(90)`.
 
-# 3.6 Double check
+# Double check
 
 For every problem, check the following:
 
@@ -170,7 +147,42 @@ For every problem, check the following:
   more tests if the problem prescribes this?
 * Do the tests give the expected output?
 
-# 3.7 Palindromes!
+# 3.4 Recursion
+
+1. Write a function that takes in two numbers and recursively multiplies them
+   together.
+
+2. Write a function that takes in a $$"base"$$ and an $$"exp"$$ and recursively
+   computes $$"base"^"exp"$$.
+
+3. Write a function using recursion to print numbers from $$n$$ to 0.
+
+4. Write a function using recursion to print numbers from 0 to $$n$$ (you just
+   need to change one line in the program of problem 1).
+
+5. Write a function using recursion that takes in a string and returns a
+   reversed copy of the string. The only string operation you are allowed to use
+   is string concatenation (recall how you concatenate two strings?).
+
+6. Write a function using recursion to check if a number $$n$$ is prime (you have
+   to check whether $$n$$ is divisible by any number below $$n$$).
+
+7. Write a recursive function that takes in one argument $$n$$ and computes
+   $$F_n$$, the $$n$$-th value of the Fibonacci sequence. The Fibonacci
+   sequence is defined by the relation:
+
+   $$F_n = F_(n−1) + F_(n−2)$$
+
+   but
+   
+   $$F_0 = 0$$ and $$F_1 = 1$$
+
+   Visit the Wikipedia page on the [Fibonacci Number] for more information if
+   you're still confused.
+
+[Fibonacci Number]: http://en.wikipedia.org/wiki/Fibonacci_number
+
+# 3.5 Palindromes!
 
 Write a function is palindrome which takes a string as parameter, and returns
 True if the string is a palindrome (meaning it is the same forwards as
@@ -204,7 +216,7 @@ Some useful things to remember:
   (hint: the words 'ana' and 'anna' are both palindromes; when do we know to
   stop checking?)
 
-# 3.8 Data processing
+# 3.6 Data processing
 
 First, download [population.csv](population.csv) (**download, not open in
 Excel!**), containing a list of the population counts in the Netherlands over
