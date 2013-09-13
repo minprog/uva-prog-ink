@@ -4,3 +4,5 @@ required:
     - homework3.py
     - population.py
 form: true
+dependent_grade:
+    - hw3
