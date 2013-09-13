@@ -4,6 +4,6 @@ required:
     - lastweek.py
     - homework2.py
     - pyplot.py
-    - pig_latin.py
 optional:
+    - pig_latin.py
     - comprehensions.py

@@ -4,8 +4,9 @@ In this game, two players sit in front of a pile of 100 stones. They take
 turns, each removing between 1 and 5 stones (assuming there are at least 5
 stones left in the pile). The person who removes the last stone(s) wins.
 
-Because this game is interactive, put it in a separate file named `nims.py`.
-Do create a function called `play_nims`, as follows:
+Because this game is interactive (you will not test it automatically), put it
+in a separate file named `nims.py`. Do create a function called `play_nims`, as
+follows:
 
     def play_nims(pile, max_stones):
         """
@@ -52,6 +53,8 @@ initially.
 When you're finished, test each other's programs by playing them!
 
 # 3.1 Report Card with GPA
+
+This exercise and most others should be going into a file called `homework3.py`.
 
 Write a function report card where the user can enter each of his grades,
 after which the program prints out a report card with GPA (*see* [Urban
@@ -149,6 +152,8 @@ For every problem, check the following:
 
 # 3.4 Recursion
 
+For each of these parts, you need to write one function with three tests!
+
 1. Write a function that takes in two numbers and recursively multiplies them
    together.
 
@@ -186,10 +191,10 @@ For every problem, check the following:
 
 Write a function is palindrome which takes a string as parameter, and returns
 True if the string is a palindrome (meaning it is the same forwards as
-backwards), and False otherwise. Save your work in `palindromes.py`. This
-problem is kind of tricky so feel free to ask for help; turn in any progress
-you make on it as well as comments explaining what does and doesn't work. For
-an additional challenge, try writing this as a recursive function.
+backwards), and False otherwise. This problem is kind of tricky so feel free to
+ask for help; turn in any progress you make on it as well as comments
+explaining what does and doesn't work. For an additional challenge, try writing
+this as a recursive function.
 
 Some useful things to remember:
 
