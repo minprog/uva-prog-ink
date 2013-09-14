@@ -1,4 +1,4 @@
-# 5.0 Caesar Cipher
+# Caesar Cipher
 
 ## Introduction
 

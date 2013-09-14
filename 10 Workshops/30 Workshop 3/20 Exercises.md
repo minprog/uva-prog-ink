@@ -93,12 +93,13 @@ should the keys, and what should the values, of this dictionary be?). Then,
 write a function people that takes in an age and returns the names of all the
 people who are that age.
 
-Test your program's functions by running these lines (they are commented at the
-bottom of the code file; uncomment them to use them):
+Test your program's functions by running these lines:
 
     print 'Dan' in people(18) and 'Cathy' in people(18)
-    print 'Ed' in people(19) and 'Helen' in people(19) and 'Irene' in people(19) and 'Jack' in people(19) and 'Larry'in people(19)
+    print 'Ed' in people(19) and 'Helen' in people(19) and \
+	      'Irene' in people(19) and 'Jack' in people(19) and 'Larry'in people(19)
     print 'Alice' in people(20) and 'Frank' in people(20) and 'Gary' in people(20)
+
     print people(21) == ['Bob']
     print people(22) == ['Kelly']
     print people(23) == []
