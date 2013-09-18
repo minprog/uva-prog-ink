@@ -76,7 +76,7 @@ Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen
 contact opneemt. We zijn altijd bereid te zoeken naar oplossingen voor zover
 mogelijk met de hoeveelheid studenten in het vak.
 
-### Eindcijfer
+## Eindcijfer
 
 Je krijgt een eindcijfer voor dit vak als je:
 
