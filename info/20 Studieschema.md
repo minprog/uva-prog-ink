@@ -2,39 +2,39 @@
 
 ## Week 1
 
-* Reading and annotations homework
+* Huiswerk: lezen en aantekeningen maken
 * Workshop 1
 
 ## Week 2
 
-* Reading and annotations homework
+* Huiswerk: lezen en aantekeningen maken
 * Workshop 2
 
 ## Week 3
 
-* Reading and annotations homework
+* Huiswerk: lezen en aantekeningen maken
 * Workshop 3
 
 ## Week 4
 
-* Reading and annotations
+* Lezen
 * Problem Set 1
 
 ## Week 5
 
-* Reading and annotations
+* Lezen
 * Problem Set 2
 
 ## Week 6
 
-* Reading and annotations
-* Project design document
-* Project beta version delivered
+* Lezen
+* Project: design document
+* Project: betaversie
 
 ## Week 7
 
-* Project final version delivered
+* Project: releaseversie
 
 ## Week 8
 
-* Quiz
+* Tentamen
