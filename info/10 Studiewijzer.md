@@ -107,7 +107,7 @@ je delen van het boek moet lezen en begrijpen. Zorg dat je het leeswerk één
 keer aan het begin van de week doet en gedurende de week nog eens.
 
 > Allen Downey  
-> **Think Python**  
+> *Think Python*  
 > Green Tea Press 2013
 
 Dit boek is voor 5 euro verkrijgbaar bij de onderwijsbalie.
