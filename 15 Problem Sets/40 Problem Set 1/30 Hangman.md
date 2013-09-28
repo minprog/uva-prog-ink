@@ -85,7 +85,7 @@ The output of an example game may look like this:
     ------------
     Congratulations, you won!
 
-Do not be intimidated by this problem! It’s actually easier than it looks. Make
+Do not be intimidated by this problem! It's actually easier than it looks. Make
 sure you break down the problem into logical subtasks. What functions will you
 need to have in order for this game to work?
 

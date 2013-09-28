@@ -80,7 +80,7 @@ shell. Finally, we can see the difference here:
 	>>> f2(3) + 1
 	5
 
-In the first case, the function doesn't return a value, so there’s nothing 
+In the first case, the function doesn't return a value, so there's nothing 
 to add to 1, and an error is generated. In the second case, the function 
 returns the value 4, which is added to 1, and the result, 5, is printed by 
 the Python read-eval-print loop.

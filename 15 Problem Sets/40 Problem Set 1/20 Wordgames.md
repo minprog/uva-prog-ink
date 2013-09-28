@@ -1,17 +1,17 @@
 # Wordgames
 
-In this problem, you’ll implement the Python wordgame! We have already provided
+In this problem, you'll implement the Python wordgame! We have already provided
 quite a bit of code for you to work with, and you will fill in some of the
 functions. Download and save the [Week 4 code files](week4.zip).
 
 In the next problem, *Hangman*, you will write the program almost
 from scratch.
 
-Don’t be intimidated by the length of this problem set. It’s a lot of reading,
+Don't be intimidated by the length of this problem set. It's a lot of reading,
 but it is very doable.
 
-Let’s begin by describing the Python wordgame: this game is a lot like Scrabble
-or Text Twist, if you’ve played those. Letters are dealt to players, who then
+Let's begin by describing the Python wordgame: this game is a lot like Scrabble
+or Text Twist, if you've played those. Letters are dealt to players, who then
 construct one or more words out of their letters. Each valid word receives a
 score, based on the length of the word and the letters in that word.
 
@@ -25,7 +25,7 @@ The rules of the game are as follows:
 * The player arranges the hand into as many words as they want out of the
   letters, but using each letter at most once.
   
-* Some letters may remain unused (these won’t be scored).
+* Some letters may remain unused (these won't be scored).
 
 ## Scoring
 
@@ -97,7 +97,7 @@ should see that all the tests fail. These are the provided test functions:
 The first step is to implement some code that allows us to calculate the score
 for a single word. The function `get_word_score` should accept a string of
 lowercase letters as input (a word) and return the integer score for that word,
-using the game’s scoring rules.
+using the game's scoring rules.
 
 Fill in the code for `get_word_score` in `wordgames.py`.
 
@@ -181,7 +181,7 @@ out with the following hand:
     a, q, l, m, u, i, l
 
 The player could choose to spell the word 'quail'. This would leave
-the following letters in the player’s hand:
+the following letters in the player's hand:
 
     l, m
 
@@ -212,7 +212,7 @@ test your implementation of `update_hand` with some reasonable inputs.
 ## 3. Valid words
 
 At this point, we have written code to generate a random hand and display that
-hand to the user. We can also ask the user for a word (Python’s `raw_input`)
+hand to the user. We can also ask the user for a word (Python's `raw_input`)
 and score the word (using your `get_word_score`). However, at this point we
 have not written any code to verify that a word given by a player obeys the
 rules of the game.

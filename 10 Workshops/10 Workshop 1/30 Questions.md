@@ -175,7 +175,7 @@ Consider the following program that Ben Bitdiddle handed in to the course staff 
 		else:
 			i = i + 1
 
-What do you think this code is doing? Without comments it is hard to guess what Ben’s intention was (*cough* -- this is why the staff loves to look at commented code!!), so read through it and make a sensible guess as to what it is doing. There's a lot of mistakes in the code so your guess is as good as ours!
+What do you think this code is doing? Without comments it is hard to guess what Ben's intention was (*cough* -- this is why the staff loves to look at commented code!!), so read through it and make a sensible guess as to what it is doing. There's a lot of mistakes in the code so your guess is as good as ours!
 
 1.	Make a table that shows the value of the variables `n` and `i` during the
 	execution of the program. Your table should contain two columns (one for

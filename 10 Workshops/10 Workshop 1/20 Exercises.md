@@ -271,8 +271,8 @@ think of.
 	>>> x == 'abc'
 	True
 
-This next example is strange! Try to understand what’s going on here, and ask if
-you’re confused.
+This next example is strange! Try to understand what's going on here, and ask if
+you're confused.
 
 	>>> a = True
 	>>> b = (5 < 7)

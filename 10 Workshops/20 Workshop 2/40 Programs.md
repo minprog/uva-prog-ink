@@ -18,7 +18,7 @@ string; also, you can use lower to make a string all lowercase:
 	['My', 'namE', 'is', 'JohN', 'SmIth']
 	>>> lowercase_phrase = phrase.lower()
 	>>> print lowercase_phrase
-	’my name is john smith’
+	'my name is john smith'
 
 Using such a list of words, you can go through each word and convert it to 
 Pig Latin.
@@ -47,7 +47,7 @@ at the ends of words, as they are pretty simple to handle).
 
 # Hacker edition: List comprehensions
 
-List comprehensions follow naturally from set builder notation and lambda calculus. They are very cool and make your life a lot easier. Don’t worry if you don’t get them yet.
+List comprehensions follow naturally from set builder notation and lambda calculus. They are very cool and make your life a lot easier. Don't worry if you don't get them yet.
 
 Read about list comprehensions on pages 34-35 of the 6.01 [course notes]; the Wikipedia article on them are good, and [this site] is concise and good.
 
@@ -77,4 +77,4 @@ And now, your challenge:
 
 3. Similarly, write a list comprehension that finds the integer solutions $$[x, y]$$ for a circle of radius 5.
 
-4. Make your own list comprehension challenge! Write a comment of what you’re trying to do in your code, then put the list comprehension below the comment.
+4. Make your own list comprehension challenge! Write a comment of what you're trying to do in your code, then put the list comprehension below the comment.
