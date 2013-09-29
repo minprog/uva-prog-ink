@@ -108,36 +108,6 @@ All lines should print `True`. The last line is an "edge condition" that we're
 testing; your `people` function should be able to handle this condition (hint:
 what is this condition?) by simply returning an empty list...
 
-# 3.3 Zeller's Algorithm, revisited
-
-This is similar to the *Program* from Week 1, but in this version we will be
-writing a function that takes parameters, and using dictionaries to facilitate
-"pretty printing" (where the answer is given to the user in a nice looking
-fashion). For the rules of the algorithm, please take a look at the description
-written in the Week 1 section.
-
-Calling `zellers("March", 10, 1940)` should give the output: `Sunday`.
-
-Hints:
-
-1. Use a dictionary to map between the month and its numerical value.
-
-2. You can use either a list or dictionary to convert the final output of the
-   algorithm to the day of the week.
-
-3. Make sure you handle the following three points correctly.
-
-   * Note: If the month is January or February, then the preceding year is
-     used for computation. This is because there was a period in history when
-     March 1st, not January 1st, was the beginning of the year.
-
-   * If the computed value of R is a negative number, add 7 to get a
-     nonnegative number between 0 and 6.
-
-   * You might need to use one of the following (but, maybe not): To convert
-     the string '90' to the number 90, use `int('90')`; to convert the int 90 to
-     the string '90', use `str(90)`.
-
 # Double check
 
 For every problem, check the following:
@@ -151,7 +121,7 @@ For every problem, check the following:
   more tests if the problem prescribes this?
 * Do the tests give the expected output?
 
-# 3.4 Recursion
+# 3.3 Recursion
 
 For each of these parts, you need to write one function with three tests!
 
@@ -188,7 +158,37 @@ For each of these parts, you need to write one function with three tests!
 
 [Fibonacci Number]: http://en.wikipedia.org/wiki/Fibonacci_number
 
-# 3.5 Palindromes!
+# Hacker: Zeller's Algorithm, revisited
+
+This is similar to the *Program* from Week 1, but in this version we will be
+writing a function that takes parameters, and using dictionaries to facilitate
+"pretty printing" (where the answer is given to the user in a nice looking
+fashion). For the rules of the algorithm, please take a look at the description
+written in the Week 1 section.
+
+Calling `zellers("March", 10, 1940)` should give the output: `Sunday`.
+
+Hints:
+
+1. Use a dictionary to map between the month and its numerical value.
+
+2. You can use either a list or dictionary to convert the final output of the
+   algorithm to the day of the week.
+
+3. Make sure you handle the following three points correctly.
+
+   * Note: If the month is January or February, then the preceding year is
+     used for computation. This is because there was a period in history when
+     March 1st, not January 1st, was the beginning of the year.
+
+   * If the computed value of R is a negative number, add 7 to get a
+     nonnegative number between 0 and 6.
+
+   * You might need to use one of the following (but, maybe not): To convert
+     the string '90' to the number 90, use `int('90')`; to convert the int 90 to
+     the string '90', use `str(90)`.
+
+# Hacker: Palindromes!
 
 Write a function is palindrome which takes a string as parameter, and returns
 True if the string is a palindrome (meaning it is the same forwards as
