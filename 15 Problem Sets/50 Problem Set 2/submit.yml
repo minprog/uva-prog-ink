@@ -2,3 +2,5 @@ name: p2
 required:
   - caesar.py
   - pseudo.txt
+  - fable.txt
+  - words.txt
