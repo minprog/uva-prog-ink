@@ -1,5 +1,3 @@
-# Welcome to week 6!
-
 This week you'll learn about;
 
 * file input/output
