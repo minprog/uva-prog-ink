@@ -164,7 +164,7 @@ The following program will most certainly cause a runtime error. What kind of er
 
 1. `NameError: name 'recurse' is not defined`
 2. `TypeError: string indices must be integers`
-3. `RuntimeError: Maximum recursion depth exceeded`
+3. `RuntimeError: maximum recursion depth exceeded`
 4. `IndexError: string index out of range`
 5. `KeyError: 'recurse'`
 
