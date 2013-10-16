@@ -147,7 +147,7 @@ Write another version of the program below, using a while loop instead of a for 
 The program below contains two syntactical errors. Your job as the Python interpreter is to find them and report the error.
 
 	def max_of_2(a, b):
-	    if a > b:
+	    if a > b
 	        return a
 	    else:
 	        return b
