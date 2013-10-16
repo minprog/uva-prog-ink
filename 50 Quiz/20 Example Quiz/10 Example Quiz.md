@@ -31,9 +31,9 @@ digit of `n`? Specifically, if `n` is an integer like `123`, then we want the
 expression to evaluate to `2`. You may assume for simplicity that `n` is
 non-negative.
 
-1. ((n - n % 10) / 10) % 10
-2. ((n - n % 10) % 100) / 10
-3. (n / 10) % 10
+1. `((n - n % 10) / 10) % 10`
+2. `((n - n % 10) % 100) / 10`
+3. `(n / 10) % 10`
 
 ## Syntax check
 
@@ -162,11 +162,11 @@ The following program will most certainly cause a runtime error. What kind of er
 	def recurse():
 	    recurse()
 
-1. NameError: name 'recurse' is not defined
-2. TypeError: string indices must be integers
-3. RuntimeError: Maximum recursion depth exceeded
-4. IndexError: string index out of range
-5. KeyError: 'recurse'
+1. `NameError: name 'recurse' is not defined`
+2. `TypeError: string indices must be integers`
+3. `RuntimeError: Maximum recursion depth exceeded`
+4. `IndexError: string index out of range`
+5. `KeyError: 'recurse'`
 
 ## The big one
 
