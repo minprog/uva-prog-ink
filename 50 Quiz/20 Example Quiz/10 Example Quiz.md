@@ -1,4 +1,4 @@
-## Expressions and types
+## Expressions and types <small>(1 point each)</small>
 
 Assume that we execute the following assignment statements:
 
@@ -9,50 +9,50 @@ Assume that we execute the following assignment statements:
 For each of the following expressions, write the value of the expression and
 the type (of the value of the expression).
 
-1. `width / 2`
-2. `width / 2.0`
-3. `height / 3`
-4. `1 + 2 * 5`
-5. `delimiter * 5`
+1. `width / 2` <input>
+2. `width / 2.0` <input>
+3. `height / 3` <input>
+4. `1 + 2 * 5` <input>
+5. `delimiter * 5` <input>
 
-## Booleans
+## Booleans <small>(1 point each)</small>
 
 Consider the Boolean expression `not (p or not q)`. Give:
 
-1. the value of the expression when p is True, and q is True,
-2. the value of the expression when p is True, and q is False,
-3. the value of the expression when p is False, and q is True,
-4. the value of the expression when p is False, and q is False.
+1. the value of the expression when p is True, and q is True <input>
+2. the value of the expression when p is True, and q is False <input>
+3. the value of the expression when p is False, and q is True <input>
+4. the value of the expression when p is False, and q is False <input>
 
-## Modulo
+## Modulo <small>(3 points)</small>
 
 Given a variable `n`, which of the following expressions computes the ten's
 digit of `n`? Specifically, if `n` is an integer like `123`, then we want the
 expression to evaluate to `2`. You may assume for simplicity that `n` is
 non-negative.
 
-1. `((n - n % 10) / 10) % 10`
-2. `((n - n % 10) % 100) / 10`
-3. `(n / 10) % 10`
+* <input type="radio" name="modulo"> `((n - n % 10) / 10) % 10`
+* <input type="radio" name="modulo"> `((n - n % 10) % 100) / 10`
+* <input type="radio" name="modulo"> `(n / 10) % 10`
 
-## Syntax check
+## Syntax check <small>(5 points)</small>
 
 Which of the following arithmetic expressions are syntactically correct?
 
-1. `7 / +4`
-2. `9 + * 4`
-3. `9 - (2 - (4 * 3)`
-4. `(8 + (1 + (2 * 4) - 3))`
-5. `5 - 1 - 3 - 7 - 0`
+1. <input type="checkbox"> `7 / +4`
+2. <input type="checkbox"> `9 + * 4`
+3. <input type="checkbox"> `9 - (2 - (4 * 3)`
+4. <input type="checkbox"> `(8 + (1 + (2 * 4) - 3))`
+5. <input type="checkbox"> `5 - 1 - 3 - 7 - 0`
 
 ## Operator abuse
 
 Assume you have values in the variables x and y. Which statement(s) would result in x having the sum of the current values of x and y?
 
-1. `x = x + y`
-2. `x += x + y`
-3. `x = y + x`
-4. `y += x`
+1. <input type="checkbox"> `x = x + y`
+2. <input type="checkbox"> `x += x + y`
+3. <input type="checkbox"> `x = y + x`
+4. <input type="checkbox"> `y += x`
 
 ## Mystery line
 
