@@ -97,8 +97,9 @@ Als je het practicum hebt gehaald, maar het tentamen niet, krijg je een *NAV*
 en kun je het tentamen éénmalig herkansen.
 
 Het eindcijfer is gebaseerd op de cijfers van de workshops, de problem sets en
-het project. Het tentamen telt dus niet mee in de berekening, maar moet wel
-voldoende gemaakt worden.
+het project. In de basis gebruiken we het gemiddelde van problem set 1 (25%),
+problem set 2 (25%) en het project (50%). Het tentamen telt dus niet mee in de
+berekening, maar moet wel voldoende gemaakt worden.
 
 ## Literatuur
 
