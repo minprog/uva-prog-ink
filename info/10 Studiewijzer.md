@@ -1,6 +1,6 @@
 # Studiewijzer
 
-*Versie: September 2013 (1.2)*
+*Versie: September 2014 (1)* (deze versie is nog niet af)
 
 Welkom bij deze cursus Inleiding Programmeren. We gaan programmeren in Python,
 een eenvoudige taal met vele mogelijkheden. Je leert over de basis van het
