@@ -5,6 +5,10 @@ This week you'll learn about;
 
 Please prepare for this day using the readings below.
 
+## Video
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/mTmJfWdZzbo" frameborder="0" allowfullscreen></iframe>
+
 ## Readings
 
 From [*Making Games with Python and Pygame* (Al Sweigart)](http://inventwithpython.com/pygame/chapters/).

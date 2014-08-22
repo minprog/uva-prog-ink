@@ -11,5 +11,5 @@ during the week!
 
 From Think Python, read chapter:
 
-* 8.5 -- 8.11 More strings
-* 11 Dictionaries
+* [8.5--8.11 More strings](http://www.greenteapress.com/thinkpython/html/thinkpython009.html#toc90)
+* [11. Dictionaries](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)

@@ -10,4 +10,4 @@ to re-read them after this practice session!
 
 From Think Python, read chapters:
 
-* 6.5 -- 6.9 More recursion
+* [6.5--6.9 More recursion](http://www.greenteapress.com/thinkpython/html/thinkpython007.html#toc70)
