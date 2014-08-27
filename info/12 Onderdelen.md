@@ -2,8 +2,8 @@
 
 Dit ben je per week kwijt aan dit vak:
 
-* 12 uur computerpracticum
-* 9 uur thuis lezen, leren en een beetje programmeren
+* 8 uur computerpracticum
+* 13 uur thuis lezen, leren en een beetje programmeren
 
 Dat betekent een wekelijkse studielast per week van gemiddeld 21 uur. Hou er
 rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu
@@ -72,11 +72,6 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 	4. helemaal consistent, afwijkingen van de stijlgids alleen goed beredeneerd
 	5. perfectie, veel eigen principes maar volledig consistent
 	{: start="0"}
-
-Het cijfer voor een problem set wordt vaak bepaald door middel van de volgende
-formule:
-
-$$"omvang" * (3 * "correctheid" + 2 * "ontwerp" + 1 * "stijl")$$.
 
 De deadline is vrijdag 17:00 voor alle studenten.
 

@@ -54,9 +54,9 @@ afsluitend tentamen. Om de leerdoelen te kunnen halen is het bovenal belangrijk
 om heel veel te oefenen met programmeren.
 
 * We verwachten dat je in de eerste drie weken vóór het practicum je huiswerk
-  hebt gedaan en dat je je aantekeningen bespreekt met de assistent.
+  hebt gedaan en dat je je vragen bespreekt met de assistent.
 
-* We verwachten dat je 12 uur per week aanwezig bent bij de computerpractica.
+* We verwachten dat je 8 uur per week aanwezig bent bij de computerpractica.
 
   Als je meer dan een week vooruit loopt én alle programmeeropdrachten hebt
   gedaan kun je schriftelijk aan de docent verzoeken om vrijstelling van de
@@ -73,15 +73,13 @@ om heel veel te oefenen met programmeren.
   van de volgende week beter te maken.
 
 Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen
-contact opneemt. We zijn altijd bereid te zoeken naar oplossingen voor zover
-mogelijk met de hoeveelheid studenten in het vak.
+contact opneemt. Als het gaat om persoonlijke problemen of andere onvermijdelijke zaken, zijn we altijd bereid te zoeken naar oplossingen voor zover mogelijk met de hoeveelheid studenten in het vak.
 
 ## Eindcijfer
 
 Je krijgt een eindcijfer voor dit vak als je:
 
 * voldoende uren aanwezig bent geweest tijdens de practica;
-* in de eerste drie weken aantekeningen hebt besproken met de assistent;
 * alle workshops tijdens het practicum hebt laten aftekenen;
 * alle benodigde programma's op tijd hebt ingeleverd;
 * een voldoende hebt gehaald voor het tentamen.
