@@ -14,7 +14,7 @@ programmeren, maar je gaat ook kijken naar toepassingen in andere vakgebieden.
 |Vakcode    |5072PRGM6Y                            |
 
 Binnen de opleiding informatiekunde en de minor ICM is dit vak het begin van de
-leerlijn Techniek. De vaardigheden die je hier leert heb je nodig om de
+leerlijn 'techniek'. De vaardigheden die je hier leert heb je nodig om de
 computerpractica van andere vakken te kunnen maken.
 
 ## Contact
