@@ -73,7 +73,7 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 	5. perfectie, veel eigen principes maar volledig consistent
 	{: start="0"}
 
-De deadline is vrijdag 17:00 voor alle studenten.
+De deadline is vrijdag 15:00 voor alle studenten.
 
 De bedoeling is dat je tijdens de cursus steeds betere en leesbaardere
 programma's gaat insturen. De schaal staat dus niet helemaal vast: we kijken

@@ -24,10 +24,14 @@ de cursus kan de staf doorgaans niet reageren op e-mail over problem sets of
 praktische zaken. Spreek daarvoor de studentassistenten of de docent aan
 tijdens het practicum.
 
+### Vragen?
+
+Stuur een mail naar <progik@mprog.nl> of spreek je assistent aan. Voor uitzonderingen en afspraken moet je altijd een mail sturen.
+
 ### Docent
 
 Martijn Stegeman  
-<stegeman@uva.nl>  
+<stegeman@uva.nl> (voor vragen van persoonlijke aard)  
 telefoon: (020) 525 5235
 
 ## Leerdoelen
@@ -53,15 +57,17 @@ Dit vak bestaat uit drie workshops, twee problem sets, één project en één
 afsluitend tentamen. Om de leerdoelen te kunnen halen is het bovenal belangrijk
 om heel veel te oefenen met programmeren.
 
-* We verwachten dat je in de eerste drie weken vóór het practicum je huiswerk
+* We verwachten dat je altijd vóór het practicum je huiswerk
   hebt gedaan en dat je je vragen bespreekt met de assistent.
 
-* We verwachten dat je 8 uur per week aanwezig bent bij de computerpractica.
+* We verwachten dat je 2 uur per week aanwezig bent bij je werkcollege en 6 uur bij de computerpractica. Mocht je een practicum missen door ziekte, dan is er een mogelijkheid tot inhalen op donderdag.
 
   Als je meer dan een week vooruit loopt én alle programmeeropdrachten hebt
   gedaan kun je schriftelijk aan de docent verzoeken om vrijstelling van de
   aanwezigheidsverplichting. Dit wordt alleen gehonoreerd als je code van
   uitstekende kwaliteit is.
+  
+  Procedure: je stuurt een week vóór de deadline je opdracht in, en stuurt een mail om ons om vrijstelling te vragen. Wij controleren je inzending op volledigheid en bevestigen je vrijstelling. Je hebt in de volgende week nog de mogelijkheid om je code beter te maken naar aanleiding van de feedback die je krijgt.
 
 * We verwachten dat je wekelijks op de laatste practicumdag je uitwerkingen van
   de workshops bespreekt met de assistent.
@@ -98,15 +104,3 @@ Het eindcijfer is gebaseerd op de cijfers van de workshops, de problem sets en
 het project. In de basis gebruiken we het gemiddelde van problem set 1 (25%),
 problem set 2 (25%) en het project (50%). Het tentamen telt dus niet mee in de
 berekening, maar moet wel voldoende gemaakt worden.
-
-## Literatuur
-
-Het volgende boek is verplichte literatuur. In de cursus staat vermeld wanneer
-je delen van het boek moet lezen en begrijpen. Zorg dat je het leeswerk één
-keer aan het begin van de week doet en gedurende de week nog eens.
-
-> Allen Downey  
-> *Think Python*  
-> Green Tea Press 2013
-
-Dit boek is voor 5 euro verkrijgbaar bij de onderwijsbalie.

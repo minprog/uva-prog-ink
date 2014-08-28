@@ -8,7 +8,7 @@ In order to install the Appliance, you first need to install a hypervisor, which
 
 * If you have a PC running **Windows**, we recommend that you follow [these instructions](#windows) for VMware Player.
 
-* If you have a PC running *Linux*, we recommend that you follow [these instructions](#linux) for VMware Player.
+* If you have a PC running **Linux**, we recommend that you follow [these instructions](#linux) for VMware Player.
 
 Alternatively (and particularly if you run into trouble with VMware Fusion or VMware Player), you can follow these instructions for VirtualBox.
 
