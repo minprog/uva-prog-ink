@@ -1,0 +1,12 @@
+name: ProgIK
+requirements:
+    - w1
+    - w2
+    - w3
+    - p1
+    - p2
+    - prb
+    - prf
+    - quiz
+	- final
+final: final
