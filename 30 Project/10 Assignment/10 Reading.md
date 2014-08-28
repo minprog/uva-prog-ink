@@ -1,3 +1,5 @@
+**Deze opdracht is nog niet vastgelegd. Mocht je er aan willen beginnen, stuur dan eerst een mail naar progik@mprog.nl.**
+
 This week you'll learn about;
 
 * file input/output

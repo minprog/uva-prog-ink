@@ -1,5 +1,7 @@
 # Welcome to week 5!
 
+**Deze opdracht is nog niet vastgelegd. Mocht je er aan willen beginnen, stuur dan eerst een mail naar progik@mprog.nl.**
+
 This week you'll learn more about recursion;
 
 Please prepare for this day using the readings below. They will not always

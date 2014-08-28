@@ -10,12 +10,14 @@ rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu
 eenmaal. Als je nog niet eerder geprogrammeerd hebt moet je even over een
 drempel heen voordat je het begint te begrijpen.
 
+## Deadline
+
+De wekelijkse deadline is vrijdag 15:00 uur. Mis je de deadline, dan hebben wij geen tijd meer om het na te kijken en wordt het lastig het vak nog te halen. Stuur daarom altijd in wat je hebt.
+
 ## Huiswerk
 
-Vóór aanvang van elke workshopweek moet je een aantal hoofdstukken uit het boek
-lezen. Hierin moet je aantekenen welke onderdelen je moeilijk te begrijpen
-vindt, en welke vragen in je opkomen bij het lezen. Deze aantekeningen zullen
-we bekijken en bespreken. Daarom moet je je syllabus elke week meenemen.
+Vóór aanvang van elke week moet je een aantal hoofdstukken uit het boek lezen.
+Teken aan welke vragen in je opkomen bij het lezen. We zullen je tijdens de week vragen welke aantekeningen je gemaakt hebt.
 
 ## Workshops
 
