@@ -35,7 +35,7 @@ Variable types
 : A category of values. The types you have probably seen so far are integers (type `int`), floating-point numbers (type `float`), and strings (type `str`).
 
 ASCII
-: Joel Spolsky is able to explain this better than we do. Read http://www.joelonsoftware.com/articles/Unicode.html 
+: Joel Spolsky is able to explain this better than we do. Read <http://www.joelonsoftware.com/articles/Unicode.html>
 
 Algorithm
 : a general process for solving a category of problems. Generally it can be seen as a series of steps. So in a sense, we perform algorithms in our daily lives all the time. The difference is that we don't know how to teach a computer such things (yet).
