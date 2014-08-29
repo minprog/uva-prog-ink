@@ -1,14 +1,12 @@
 ## Installation with VMware Fusion on Mac
 
-Download VMware Fusion as follows:
-
-* to be inserted
+Download VMware Fusion as follows by [clicking this link](https://www.vmware.com/go/tryfusion).
 
 Double-click the file you just downloaded (which is likely in your **Downloads** folder) in order to "mount" VMware Fusion’s icon on your desktop.
 
 A window should open. Drag the **VMware Fusion** (or **VMware Fusion.app**) icon in that window to your **Applications** folder.
 
-Download the Appliance itself at (to be inserted). That file is over 1GB in size, so it might take a while to download.
+Download the Appliance itself at <http://mprog.uvastudent.org/CSUvA_vmware.ova>. That file is over 1GB in size, so it might take a while to download.
 
 Once the file has finished downloading, check whether its name ends in `.ova` or `.ovf`. There appears to be a bug in Chrome whereby `.ova` is incorrectly changed to `.ovf`, so if the file's name does now end in `.ovf`, change it back as follows:
 

@@ -10,8 +10,6 @@ In order to install the Appliance, you first need to install a hypervisor, which
 
 * If you have a PC running **Linux**, we recommend that you follow [these instructions](#linux) for VMware Player.
 
-Alternatively (and particularly if you run into trouble with VMware Fusion or VMware Player), you can follow these instructions for VirtualBox.
-
 Once installed, it’s not uncommon for the appliance to take a minute or so to boot. But if, once at John Harvard’s desktop, the appliance still feels unbearably slow, you might need to enable hardware virtualization on your computer if it’s a PC running Windows or Linux. (Hardware virtualization should be enabled by default on any Intel-based Mac manufactured in the past few years.) Even with hardware virtualization enabled, though, virtual machines might still feel slow if your computer is a few years old, has a CPU that’s only 1GHz or so, or has only 1GB or so of RAM.
 
 ### How to Use Appliance

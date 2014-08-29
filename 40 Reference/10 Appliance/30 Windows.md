@@ -18,7 +18,7 @@ Installing VMware Player:
 
 * Once you see Setup Wizard Complete, click Restart Now if prompted, else Continue.
 
-Download the CS50 Appliance itself at (tbd). That file is over 1GB in size, so it might take a while to download.
+Download the CS50 Appliance itself at <http://mprog.uvastudent.org/CSUvA_vmware.ova>. That file is over 1GB in size, so it might take a while to download.
 
 Launch VMware Player, as by double-clicking its icon, which should be in your Applications folder. If prompted with a Software License Agreement, click Agree. If prompted for Licensing, paste in your license key, then click OK. If prompted to Create New, Convert VM, or Migrate PC, simply click Skip. If you do not yet have a license key, begin the trial. You may need to input an email address to proceed.
 
