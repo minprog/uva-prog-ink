@@ -1,6 +1,6 @@
 # Studiewijzer
 
-*Versie: September 2014 (1)* (deze versie is nog niet af)
+*Versie: September 2014 (3.0 beta)*
 
 Welkom bij deze cursus Inleiding Programmeren. We gaan programmeren in Python,
 een eenvoudige taal met vele mogelijkheden. Je leert over de basis van het
@@ -20,18 +20,17 @@ computerpractica van andere vakken te kunnen maken.
 ## Contact
 
 De staf bestaat uit je docent en diverse studentassistenten. Door de omvang van
-de cursus kan de staf doorgaans niet reageren op e-mail over problem sets of
-praktische zaken. Spreek daarvoor de studentassistenten of de docent aan
-tijdens het practicum.
+de cursus hebben we geen tijd voor het geven van programmeerhulp via e-mail.
+Spreek dus de studentassistenten tijdens het practicum als je inhoudelijke vragen hebt.
 
-### Vragen?
+### Praktische vragen?
 
 Stuur een mail naar <progik@mprog.nl> of spreek je assistent aan. Voor uitzonderingen en afspraken moet je altijd een mail sturen.
 
 ### Docent
 
 Martijn Stegeman  
-<stegeman@uva.nl> (voor vragen van persoonlijke aard)  
+<stegeman@uva.nl> (mail voor vragen van persoonlijke aard)  
 telefoon: (020) 525 5235
 
 ## Leerdoelen

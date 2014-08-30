@@ -2,7 +2,7 @@
 
 Installing VMware Player:
 
-* Download VMware Player for free from http://www.vmware.com/go/downloadplayer/.
+* Download VMware Player for free from <http://www.vmware.com/go/downloadplayer/>.
 
 * Double-click the file you just downloaded (which is likely in your Downloads folder) in order launch VMware Player’s installer.
 
