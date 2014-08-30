@@ -3,14 +3,15 @@
 These exercises will take you on a trip through Python. You are supposed to try
 out the code in your Python interpreter as often as possible.
 
-## Exercise 1.0 – Installing Python
+## Exercise 1.0 – Installing Appliance
 
-Follow the instructions on installing Python and IDLE in the [Reference]
-section. Be sure to install Python version 2.7.x! Ask an assistant for help if
-you run into any trouble. Before continuing, play around with the Python shell
-a bit and explore how you can use it as a calculator.
+Follow the instructions on installing [the Appliance](/reference/appliance).
+section. Ask an assistant for help if you run into any trouble.
 
-[Reference]: /reference/installing
+You can start *gedit* by clicking the ![gedit](gedit.png) icon in the lower toolbar.
+
+Before continuing, play around with the Python shell a bit and explore how you
+can use it as a calculator.
 
 ## Exercise 1.1 – Hello, world!
 
