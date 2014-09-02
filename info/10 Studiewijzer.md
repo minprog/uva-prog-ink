@@ -68,8 +68,7 @@ om heel veel te oefenen met programmeren.
   
   Procedure: je stuurt een week vóór de deadline je opdracht in, en stuurt een mail om ons om vrijstelling te vragen. Wij controleren je inzending op volledigheid en bevestigen je vrijstelling. Je hebt in de volgende week nog de mogelijkheid om je code beter te maken naar aanleiding van de feedback die je krijgt.
 
-* We verwachten dat je wekelijks op de laatste practicumdag je uitwerkingen van
-  de workshops bespreekt met de assistent.
+* We verwachten dat je, als het nodig is, op donderdag naar het laatstekanspracticum komt.
 
 * We verwachten dat je uiterlijk vrijdagavond je opdracht van de
   week inlevert.
@@ -99,7 +98,8 @@ eindcijfer maar een aantekening *niet aanwezig (NA)* op je cijferlijst.
 Als je het practicum hebt gehaald, maar het tentamen niet, krijg je een *NAV*
 en kun je het tentamen éénmalig herkansen.
 
-Het eindcijfer is gebaseerd op de cijfers van de workshops, de problem sets en
+Het eindcijfer is gebaseerd op de workshops, de cijfers van de problem sets en
 het project. In de basis gebruiken we het gemiddelde van problem set 1 (25%),
-problem set 2 (25%) en het project (50%). Het tentamen telt dus niet mee in de
-berekening, maar moet wel voldoende gemaakt worden.
+problem set 2 (25%) en het project (50%). Als je een duidelijke groei doormaakt
+tijdens het vak kan dat leiden tot een hoger cijfer! Het tentamen telt niet
+mee in het eindcijfer, maar moet wel voldoende gemaakt worden.

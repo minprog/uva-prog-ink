@@ -17,7 +17,7 @@ De wekelijkse deadline is vrijdag 15:00 uur. Mis je de deadline, dan hebben wij 
 ## Huiswerk
 
 Vóór aanvang van elke week moet je een aantal hoofdstukken uit het boek lezen.
-Teken aan welke vragen in je opkomen bij het lezen. We zullen je tijdens de week vragen welke aantekeningen je gemaakt hebt.
+De hoofdstukken staan gelinkt bij de opdrachten. Teken aan welke vragen je hebt bij het lezen en bespreek deze vragen met je assistent.
 
 ## Workshops
 
