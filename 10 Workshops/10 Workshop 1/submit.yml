@@ -5,4 +5,5 @@ required:
     - rps.py
     - loops.py
     - zellers.py
+optional:
     - cipher.py
