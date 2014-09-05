@@ -1,7 +1,5 @@
 # Welcome to week 3!
 
-**Deze opdracht is nog niet vastgelegd. Mocht je er aan willen beginnen, stuur dan eerst een mail naar progik@mprog.nl.**
-
 This, you'll learn about three ways to store data in your program.
 
 * Lists, lists and lists.
