@@ -1,7 +1,5 @@
 # Welcome to week 4!
 
-**Deze opdracht is nog niet vastgelegd. Mocht je er aan willen beginnen, stuur dan eerst een mail naar progik@mprog.nl.**
-
 This week you'll learn more about strings; and you're going to write larger
 programs.
 
