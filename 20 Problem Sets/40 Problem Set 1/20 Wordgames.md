@@ -4,9 +4,6 @@ In this problem, you'll implement the Python wordgame! We have already provided
 quite a bit of code for you to work with, and you will fill in some of the
 functions. Download and save the [Week 4 code files](week4.zip).
 
-In the next problem, *Hangman*, you will write the program almost
-from scratch.
-
 Don't be intimidated by the length of this problem set. It's a lot of reading,
 but it is very doable.
 
@@ -92,7 +89,11 @@ should see that all the tests fail. These are the provided test functions:
     test_update_hand()    # Test the update_hand() implementation.
     test_is_valid_word()  # Test the is_valid_word() implementation.
 
-## 1. Word scores
+## 1. Highscores
+
+What is a game without high scores? We have already created a file that contains some arbitrary high scores. It is up to you to read the file in, and display the high scores at the start of the game. The high scores will be stored in a csv file, which can read using `csv.reader` (remember how from last week?). The high scores should then be saved into a dictionary object.
+
+## 2. Word scores
 
 The first step is to implement some code that allows us to calculate the score
 for a single word. The function `get_word_score` should accept a string of
@@ -116,7 +117,7 @@ Testing: if this function is implemented properly, and you run
 Also test your implementation of `get_word_score` manually using some reasonable
 English words.
 
-## 2. Dealing with hands
+## 3. Dealing with hands
 
 Please read this problem entirely before you begin coding the solution! It will
 save you a lot of work.
@@ -209,7 +210,7 @@ effects; i.e., it **cannot mutate** the hand passed in.
 Testing: Make sure the `test_update_hand()` tests pass. You may also want to
 test your implementation of `update_hand` with some reasonable inputs.
 
-## 3. Valid words
+## 4. Valid words
 
 At this point, we have written code to generate a random hand and display that
 hand to the user. We can also ask the user for a word (Python's `raw_input`)
@@ -224,7 +225,7 @@ Testing: make sure the `test_is_valid_word` tests pass. In particular, you may
 want to test your implementation by calling it multiple times on the same hand;
 what should the correct behavior be?
 
-## 4. Playing a hand
+## 5. Playing a hand
 
 We are now ready to begin writing the code that interacts with the player.
 Implement the `play_hand` function. This function allows the user to play out a
@@ -266,7 +267,7 @@ Case #2
 
     Total score: 46 points.
 
-## 5. Playing a game
+## 6. Playing a game
 
 A game consists of playing multiple hands. We need to implement one final
 function to complete our word-game program. Write the code that implements the
@@ -279,6 +280,10 @@ of cards in a hand. If you like, you can try out different values for
 `HAND_SIZE` with your program.
 
 Testing: Just try out this implementation as if you were playing the game!
+
+## 7. Updating high scores
+
+The list of high scores should be updated when the player quits after completing a game. The file defined by the variable `HIGHSCORES_FILENAME` should be updated, thereby keeping a maximum of three entries. If three entries are already present, the new high score should only be inserted if it is has a higher score then the lowest score present, and the lowest score should be deleted. Instead of `csv.reader`, we can now use `csv.writer`. Remember that Google is your best friend.
 
 ## Overall design
 
