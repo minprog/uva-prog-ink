@@ -1,5 +1,5 @@
 name: p1
 required:
   - wordgames.py
-  - hangman.py
+optional:
   - computer.py
