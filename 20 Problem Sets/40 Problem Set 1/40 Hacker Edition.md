@@ -8,7 +8,7 @@ Wordgames you wrote.
 **This is all dependent on your functions from wordgames.py, so be sure to
 complete `wordgames.py` before working on `computer.py`.**
 
-You decide to teach your computer (SkyNet) to play the game you just built so
+You decide to teach your computer ([SkyNet](https://www.youtube.com/watch?v=_Wlsd9mljiU)) to play the game you just built so
 that you can prove once and for all that computers are inferior to human
 intellect. Here, you will make a new version of the `play_hand` function.
 
