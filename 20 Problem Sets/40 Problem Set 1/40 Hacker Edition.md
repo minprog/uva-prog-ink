@@ -13,7 +13,7 @@ that you can prove once and for all that computers are inferior to human
 intellect. Here, you will make a new version of the `play_hand` function.
 
 First we must create a function that allows the computer to choose a word. We
-have provided the function `get_perms(hand, n)` in `perm.py`. When this file is
+have provided the function `get_perms(hand, n)` in [`perm.py`](perm.py). When this file is
 `import`ed into `computer.py`, you can use it in your own functions.
 
 Look at that function's specification, which will tell you what it does. You do
