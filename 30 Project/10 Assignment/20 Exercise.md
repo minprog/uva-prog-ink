@@ -5,9 +5,6 @@ getting started.
 
 [Wikipedia]: http://en.wikipedia.org/wiki/Towers_of_hanoi
 
-**You will work in the same pairs as last two weeks, unless we made other
-arrangements!**
-
 ## Required features
 
 Here are the features that your game should provide for the user!

@@ -70,7 +70,7 @@ om heel veel te oefenen met programmeren.
 
 * We verwachten dat je, als het nodig is, op donderdag naar het laatstekanspracticum komt.
 
-* We verwachten dat je uiterlijk vrijdagavond je opdracht van de
+* We verwachten dat je uiterlijk vrijdag vóór de deadline je opdracht van de
   week inlevert.
 
 * We verwachten dat je de feedback over je opdrachten gebruikt om de opdrachten
