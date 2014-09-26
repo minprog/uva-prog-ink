@@ -39,9 +39,9 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 
     0. niet of leeg ingeleverd
 	1. onaf
-	2. basis staat maar niet alles afgemaakt
-	3. precies het minimum zoals in de opdracht
-	4. extra's geprobeerd
+	2. er mist een groot deel van de opdracht
+	3. er mist een deel van de opdracht
+	4. helemaal zoals in de opdracht
 	5. meer dan in de opdracht stond
 	{: start="0"}
 
@@ -49,9 +49,9 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 
 	0. echt niet werkend te krijgen voor ons
 	1. kost teveel tijd om werkend te krijgen
-	2. problemen in de werking, waarschijnlijk een vergissing
+	2. kleine problemen in de werking, buggy
 	3. werkt, maar niet altijd goede antwoord
-	4. goede uitvoer voor alle te verwachten invoer
+	4. goede uitvoer voor alle voorbeelden in de opdracht
 	5. perfectie, ook foutieve invoer afgevangen
 	{: start="0"}
 
