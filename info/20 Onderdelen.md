@@ -37,17 +37,15 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 
 * Omvang --- heb je alles geprobeerd?
 
-    0. niet of leeg ingeleverd
 	1. echt onaf, gewoon gestopt
 	2. er missen enkele delen
 	3. er mist een klein deel van de opdracht
 	4. helemaal zoals in de opdracht
-	5. meer dan in de opdracht stond
+	5. meer dan in de opdracht stond (alleen in overleg)
 	{: start="0"}
 
 * Correctheid --- doet het programma wat de gebruiker mag verwachten?
 
-	0. echt niet werkend te krijgen voor ons
 	1. kost teveel tijd om werkend te krijgen
 	2. problemen in de werking, buggy
 	3. werkt, maar niet altijd goede antwoord
@@ -57,21 +55,19 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 
 * Ontwerp --- hoe ordelijk is je code?
 
-    0. we kwamen er helemaal niet uit
-	1. veel onnodig ingewikkelde constructies, vermijden bepaalde mogelijkheden
+	1. veel ingewikkelde code of vermijden van bepaalde keywords zoals `for`
 	2. ingewikkeld, maar toont kennis van mogelijkheden
 	3. ongecompliceerd, details misschien inefficiënt
-	4. goed gebruik van de mogelijkheden die te taal biedt
-	5. perfectie, je hebt erover gelezen en het uitstekend toegepast
+	4. strak en efficiënt met de mogelijkheden die te taal biedt
+	5. perfectie, je hebt over ontwerp gelezen en dit uitstekend toegepast
 	{: start="0"}
 
 * Stijl --- hoe leesbaar is je code?
 
-    0. volledig onleesbaar voor ons
-	1. soms is er iets moois, maar over het algemeen niet goed leesbaar
+	1. over het algemeen niet goed leesbaar
 	2. elementen uit de stijlgids zijn toegepast maar niet consistent
 	3. leesbaar en consistent, misschien nog een enkel probleem
-	4. helemaal consistent, afwijkingen van de stijlgids alleen goed beredeneerd
+	4. consistent, ook bij afwijkingen van de stijlgids
 	5. perfectie, veel eigen principes maar volledig consistent
 	{: start="0"}
 
