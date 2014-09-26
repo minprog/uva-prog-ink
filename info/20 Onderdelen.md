@@ -38,8 +38,8 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 * Omvang --- heb je alles geprobeerd?
 
     0. niet of leeg ingeleverd
-	1. onaf
-	2. er missen delen
+	1. echt onaf, gewoon gestopt
+	2. er missen enkele delen
 	3. er mist een klein deel van de opdracht
 	4. helemaal zoals in de opdracht
 	5. meer dan in de opdracht stond
