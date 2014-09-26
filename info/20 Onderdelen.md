@@ -42,7 +42,6 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 	3. er mist een klein deel van de opdracht
 	4. helemaal zoals in de opdracht
 	5. meer dan in de opdracht stond (alleen in overleg)
-	{: start="0"}
 
 * Correctheid --- doet het programma wat de gebruiker mag verwachten?
 
@@ -51,7 +50,6 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 	3. werkt, maar niet altijd goede antwoord
 	4. goede uitvoer voor alle voorbeelden in de opdracht
 	5. perfectie, ook foutieve invoer afgevangen
-	{: start="0"}
 
 * Ontwerp --- hoe ordelijk is je code?
 
@@ -60,7 +58,6 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 	3. ongecompliceerd, details misschien inefficiënt
 	4. strak en efficiënt met de mogelijkheden die te taal biedt
 	5. perfectie, je hebt over ontwerp gelezen en dit uitstekend toegepast
-	{: start="0"}
 
 * Stijl --- hoe leesbaar is je code?
 
@@ -69,7 +66,6 @@ Elk ingeleverd programma wordt beoordeeld op de volgende factoren;
 	3. leesbaar en consistent, misschien nog een enkel probleem
 	4. consistent, ook bij afwijkingen van de stijlgids
 	5. perfectie, veel eigen principes maar volledig consistent
-	{: start="0"}
 
 De deadline is vrijdag 15:00 voor alle studenten.
 
