@@ -1,15 +1,20 @@
 # Welcome to week 5!
 
-**Deze opdracht is nog niet vastgelegd. Mocht je er aan willen beginnen, stuur dan eerst een mail naar progik@mprog.nl.**
+You'll be reviewing your workshops and re-submit all programs from those.
 
-This week you'll learn more about recursion;
+We will take this opportunity to learn more about how your programs will be graded in the coming weeks.
 
-Please prepare for this day using the readings below. They will not always
-immediately make sense without practice, but that's no problem. You may want
-to re-read them after this practice session!
+Please review the grading scheme that is on the homepage of this course. For this assignment, we will score your submission as follows:
 
-## Readings
+- The most important grading aspect this week is how much of the workshops you finish. Because you already did most of it, the ultimate goal is to finish each and every assignment of the workshops.
 
-From Think Python, read chapters:
+- If you do hacker assignments, and you do them well, you will be awarded with extra credit. Anyone who finished two out of three hacker assignments will earn a full credit for "scope" (omvang).
 
-* [6.5--6.9 More recursion](http://www.greenteapress.com/thinkpython/html/thinkpython007.html#toc70)
+    These are the three hacker assignments you can choose: `comprehensions`, `cipher`, and `palindromes`.
+
+- Part of the grading will be looking at "correctness". We will have a look if your programs work as intended and if they are robust.
+
+- Then, we will look at "design". The goal is to make your code less complicated. To do this, you will need to fully understand the possibilities of the Python language as described in the book you read.
+
+- Finally, we will look at "style". You can make your code easier to read by giving variables well-chosen names, and by adding short comments. Have a look at the [style guide](/reference/style-guide) for hints and tips.
+

@@ -1,6 +1,17 @@
 name: p2
 required:
-  - caesar.py
-  - pseudo.txt
-  - fable.txt
-  - words.txt
+    - homework1.py
+    - rps.py
+    - loops.py
+    - zellers.py
+    - lastweek.py
+    - homework2.py
+    - pyplot.py
+    - pig_latin.py
+    - nims.py
+    - homework3.py
+    - population.py
+optional:
+    - comprehensions.py
+    - cipher.py
+    - palindromes.py
