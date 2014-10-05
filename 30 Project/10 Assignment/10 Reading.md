@@ -2,8 +2,8 @@
 
 The idea of this exercise is to graphically implement the *Tower of Hanoi*
 puzzle. For a description of the puzzle we refer to [Wikipedia]. Make sure you
-have read the Pygame basics and practiced with drawing some shapes before
-getting started.
+have understood the Pygame basics, written a *design document*, as well as
+practiced a little bit with drawing shapes on the screen before getting started. Your first lab session will consist of these activities.
 
 [Wikipedia]: http://en.wikipedia.org/wiki/Towers_of_hanoi
 
