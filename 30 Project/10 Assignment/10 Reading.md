@@ -33,7 +33,7 @@ Back to our assignment. Here are the features that your game should provide for 
 * During the *first lab session* you will create a design document that, er, documents all design decisions you can come up with.
 * At the *end of the first week*, you will have finished a beta version of
   your game.
-* At the *end of the second week*, you will have finished a beta version of
+* At the *end of the second week*, you will have finished the final version of
   your game.
 
 Need some help? Try the [Pygame.event Reference](http://www.pygame.org/docs/ref/event.html) (a list of possible event types and their attributes).
