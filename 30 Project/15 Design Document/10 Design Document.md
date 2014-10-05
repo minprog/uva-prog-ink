@@ -1,5 +1,8 @@
 During the first lab session of the project you should write a technical design
-document. This document should contain at least the following:
+document. This should not take more than 2 hours. If it takes longer, you will
+need to finish today's work at home!
+
+The document should contain at least the following:
 
 * a description of the graphical elements that should appear on screen (draw
   all elements in their initial position; do it on paper and photograph it);
@@ -18,7 +21,6 @@ document. This document should contain at least the following:
 The document should be one file containing all elements and including any
 photographs you made.
 
-**Submit the design document and discuss it with a lab assistant during the
-first lab session this week.**
+Submit the design document and discuss it with a lab assistant immediately, in class.
 
 After doing this, you can start coding!

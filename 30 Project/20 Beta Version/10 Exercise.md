@@ -9,8 +9,5 @@ for the beta.
 * Move discs between towers using the mouse.
 * Detect when the game is solved.
 
-For this version you should make it a priority to implement all required
+For this version you should make it a priority to implement *all* required
 features rather than implementing some features perfectly.
-
-**Submit the beta version at the end of week and discuss it with a lab assistant
-  on friday or monday.**
