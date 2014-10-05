@@ -36,9 +36,7 @@ From [*Making Games with Python and Pygame* (Al Sweigart)](http://inventwithpyth
 ## Steps
 
 * During the *first lab session* you will create a design document that, er, documents all design decisions you can come up with.
-
 * At the *end of the first week*, you will have finished a beta version of
   your game.
-
 * At the *end of the second week*, you will have finished a beta version of
   your game.
