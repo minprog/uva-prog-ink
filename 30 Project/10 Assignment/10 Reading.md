@@ -1,9 +1,4 @@
-This week you'll learn about;
-
-* file input/output
-* drawing graphics using Pygame
-
-## Assignment
+![Towers of Hanoi](hanoi.png)
 
 The idea of this exercise is to graphically implement the *Tower of Hanoi*
 puzzle. For a description of the puzzle we refer to [Wikipedia]. Make sure you
