@@ -1,4 +1,4 @@
-![Towers of Hanoi](hanoi.png)
+![Towers of Hanoi](hanoi.png){:.inline }
 
 The idea of this exercise is to graphically implement the *Tower of Hanoi*
 puzzle. For a description of the puzzle we refer to [Wikipedia]. Make sure you
