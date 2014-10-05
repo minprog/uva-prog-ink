@@ -9,7 +9,7 @@ practiced a little bit with drawing shapes on the screen before getting started.
 
 ## Learn PyGame
 
-Fortunately, PyGame is already installed in the Appliance. (If you are not using the Appliance, please make sure PyGame is running well *before* coming to class. It will take you some time. If you get in trouble, install the Appliance.) To get you started, follow along with the [Pygame Basics](http://inventwithpython.com/pygame/chapter2.html) (Until the Animation paragraph) book chapter, and try out PyGame.
+Fortunately, PyGame is already installed in the Appliance. (If you are not using the Appliance, please make sure PyGame is running well *before* coming to class. It will take you some time. If you get in trouble, install the Appliance.) To get you started, follow along with the [Pygame Basics](http://inventwithpython.com/pygame/chapter2.html) book chapter (up until the "Animation" paragraph), and try out PyGame.
 
 To make your program work well, you will need to insert this line at the bottom of the game loop:
 
