@@ -9,7 +9,7 @@ practiced a little bit with drawing shapes on the screen before getting started.
 
 ## Learn PyGame
 
-Fortunately, PyGame is already installed in the Appliance. You can go ahead and follow this video, and try out PyGame:
+Fortunately, PyGame is already installed in the Appliance. (If you are not using the Appliance, please make sure PyGame is running well *before* coming to class. It will take you some time. If you get in trouble, install the Appliance.) To get you started, follow this video, and try out PyGame. Copy the instructions from the video into your editor and try it out.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/f_kFOFYdCiY" frameborder="0" allowfullscreen></iframe>
 
