@@ -9,11 +9,13 @@ practiced a little bit with drawing shapes on the screen before getting started.
 
 ## Learn PyGame
 
-Fortunately, PyGame is already installed in the Appliance. (If you are not using the Appliance, please make sure PyGame is running well *before* coming to class. It will take you some time. If you get in trouble, install the Appliance.) To get you started, follow this video, and try out PyGame. Copy the instructions from the video into your editor and try it out.
+Fortunately, PyGame is already installed in the Appliance. (If you are not using the Appliance, please make sure PyGame is running well *before* coming to class. It will take you some time. If you get in trouble, install the Appliance.) To get you started, follow along with the [Pygame Basics](http://inventwithpython.com/pygame/chapter2.html) (Until the Animation paragraph) book chapter, and try out PyGame.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/f_kFOFYdCiY" frameborder="0" allowfullscreen></iframe>
+To make your program work well, you will need to insert this line at the bottom of the game loop:
 
-Do note that we think `setDisplay` is not a great variable name, because it is inconsistent with all of standard Python! We'd rather call it `set_display`.
+	pygame.time.wait(10)
+
+This line will allow other programs than your game to use the processor. This includes stuff like gEdit, so it's nice to have that line!
 
 ## Required features of your game
 
@@ -26,13 +28,6 @@ Back to our assignment. Here are the features that your game should provide for 
 * Read a starting state from file like [this one](hanoi.txt). Each line is a
   tower and larger numbers represent larger discs.
 
-## Readings
-
-From [*Making Games with Python and Pygame* (Al Sweigart)](http://inventwithpython.com/pygame/chapters/).
-
-* [Pygame Basics](http://inventwithpython.com/pygame/chapter2.html) (Until the Animation paragraph)
-* [Pygame.event Reference](http://www.pygame.org/docs/ref/event.html) (The list of possible event types and their attributes)
-
 ## Steps
 
 * During the *first lab session* you will create a design document that, er, documents all design decisions you can come up with.
@@ -40,3 +35,5 @@ From [*Making Games with Python and Pygame* (Al Sweigart)](http://inventwithpyth
   your game.
 * At the *end of the second week*, you will have finished a beta version of
   your game.
+
+Need some help? Try the [Pygame.event Reference](http://www.pygame.org/docs/ref/event.html) (a list of possible event types and their attributes).
