@@ -1,3 +1,4 @@
 name: r2
-required:
+optional:
     - hanoi.py
+    - hanoi.zip
